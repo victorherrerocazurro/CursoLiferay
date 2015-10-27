@@ -1,11 +1,15 @@
 package com.test;
 
 import java.io.IOException;
+import java.io.Serializable;
 
+import javax.portlet.EventRequest;
+import javax.portlet.EventResponse;
 import javax.portlet.GenericPortlet;
 import javax.portlet.PortletException;
 import javax.portlet.PortletRequestDispatcher;
 import javax.portlet.PortletSession;
+import javax.portlet.ProcessEvent;
 import javax.portlet.RenderRequest;
 import javax.portlet.RenderResponse;
 
@@ -30,10 +34,29 @@ public class ReceptorPortlet extends GenericPortlet {
     	
     	_log.info("El parametro recibido de otro Portlet es: " + parametro);
     	
-    	//
+    	//2-Public Render Parameter
+    	String parametroRender = renderRequest.getParameter("parametro");
     	
+    	_log.info("El parametro recibido de otro Portlet es: " + parametroRender);
+    	
+    	//3-Eventos
+    	String parametroEvent = (String) renderRequest.getAttribute("parametro");
+    	
+    	_log.info("El parametro recibido de otro Portlet es: " + parametroEvent);
     	
         include(viewTemplate, renderRequest, renderResponse);
+    }
+    
+    @ProcessEvent(qname="{http://liferay.com}miEvento")
+    public void procesarEvent(EventRequest eventRequest, EventResponse eventResponse)
+    		throws PortletException, IOException {
+
+    	String value = (String) eventRequest.getEvent().getValue();
+    	
+    	_log.info("El parametro enviado con eventos: " + value);
+    	
+    	eventRequest.setAttribute("parametro", value);
+    	
     }
 
     protected void include(

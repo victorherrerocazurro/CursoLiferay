@@ -845,3 +845,105 @@
 2015-10-27 11:30:49,824 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
 2015-10-27 11:30:49,839 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2015-10-27 11:30:49,839 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Liferay\workspace\03-Emisor\src\test\resources
+2015-10-27 11:43:12,393 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-27 11:43:12,393 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-10-27 11:43:12,393 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-27 11:43:12,393 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Liferay\workspace\03-Receptor\src\test\resources
+2015-10-27 11:44:22,187 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-27 11:44:22,187 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-10-27 11:44:22,187 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-27 11:44:22,187 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Liferay\workspace\03-Emisor\src\test\resources
+2015-10-27 11:44:58,442 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-27 11:44:58,442 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-10-27 11:44:58,442 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-27 11:44:58,442 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Liferay\workspace\03-Receptor\src\test\resources
+2015-10-27 11:49:27,558 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-27 11:49:27,558 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-10-27 11:49:27,558 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-27 11:49:27,558 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Liferay\workspace\03-Emisor\src\test\resources
+2015-10-27 11:50:03,500 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-27 11:50:03,500 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-10-27 11:50:03,516 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-27 11:50:03,516 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Liferay\workspace\03-Emisor\src\test\resources
+2015-10-27 11:50:36,947 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-27 11:50:36,947 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-10-27 11:50:36,962 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-27 11:50:36,962 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Liferay\workspace\03-Emisor\src\test\resources
+2015-10-27 11:51:12,156 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-27 11:51:12,156 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-10-27 11:51:12,172 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-27 11:51:12,172 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Liferay\workspace\03-Emisor\src\test\resources
+2015-10-27 11:51:44,198 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-27 11:51:44,198 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-10-27 11:51:44,198 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-27 11:51:44,198 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Liferay\workspace\03-Receptor\src\test\resources
+2015-10-27 11:51:59,315 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-27 11:51:59,315 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-10-27 11:51:59,315 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-27 11:51:59,315 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Liferay\workspace\03-Receptor\src\test\resources
+2015-10-27 11:52:46,162 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-27 11:52:46,162 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-10-27 11:52:46,177 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-27 11:52:46,177 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Liferay\workspace\03-Receptor\src\test\resources
+2015-10-27 11:53:01,231 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-27 11:53:01,231 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-10-27 11:53:01,231 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-27 11:53:01,231 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Liferay\workspace\03-Emisor\src\test\resources
+2015-10-27 11:55:44,938 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-27 11:55:44,938 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-10-27 11:55:44,938 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-27 11:55:44,938 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Liferay\workspace\03-Emisor\src\test\resources
+2015-10-27 11:57:25,839 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-27 11:57:25,839 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-10-27 11:57:25,839 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-27 11:57:25,839 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Liferay\workspace\03-Receptor\src\test\resources
+2015-10-27 11:59:08,316 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-27 11:59:08,316 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-10-27 11:59:08,316 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-27 11:59:08,316 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Liferay\workspace\03-Receptor\src\test\resources
+2015-10-27 12:00:08,157 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-27 12:00:08,157 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-10-27 12:00:08,157 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-27 12:00:08,157 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Liferay\workspace\03-Receptor\src\test\resources
+2015-10-27 12:02:25,133 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-27 12:02:25,133 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-10-27 12:02:25,133 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-27 12:02:25,133 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Liferay\workspace\03-Emisor\src\test\resources
+2015-10-27 12:03:06,485 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-27 12:03:06,485 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-10-27 12:03:06,485 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-27 12:03:06,485 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Liferay\workspace\03-Emisor\src\test\resources
+2015-10-27 12:17:11,526 [ModalContext] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' C:\Liferay\workspace\04-AlloyUI\pom.xml
+2015-10-27 12:17:12,181 [ModalContext] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.ejemplo.liferay:04-AlloyUI:1.0.0-SNAPSHOT @ C:\Liferay\workspace\04-AlloyUI\pom.xml.
+2015-10-27 12:17:12,836 [ModalContext] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /04-AlloyUI/src/main/java
+2015-10-27 12:17:12,836 [ModalContext] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /04-AlloyUI/src/main/resources
+2015-10-27 12:17:12,852 [ModalContext] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /04-AlloyUI/src/test/java
+2015-10-27 12:17:13,507 [ModalContext] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 1 sec
+2015-10-27 12:17:13,538 [ModalContext] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2015-10-27 12:17:13,647 [ModalContext] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.ejemplo.liferay:04-AlloyUI:1.0.0-SNAPSHOT @ C:\Liferay\workspace\04-AlloyUI\pom.xml.
+2015-10-27 12:17:14,209 [ModalContext] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /04-AlloyUI/src/main/java
+2015-10-27 12:17:14,209 [ModalContext] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /04-AlloyUI/src/main/resources
+2015-10-27 12:17:14,209 [ModalContext] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /04-AlloyUI/src/test/java
+2015-10-27 12:17:14,677 [ModalContext] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.ejemplo.liferay:04-AlloyUI:1.0.0-SNAPSHOT @ C:\Liferay\workspace\04-AlloyUI\pom.xml.
+2015-10-27 12:17:14,926 [ModalContext] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for 04-AlloyUI
+2015-10-27 12:17:14,942 [ModalContext] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2015-10-27 12:17:15,410 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-27 12:17:15,410 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-10-27 12:17:15,410 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-27 12:17:15,410 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Liferay\workspace\04-AlloyUI\src\test\resources
+2015-10-27 12:24:32,053 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-27 12:24:32,053 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-10-27 12:24:32,053 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-27 12:24:32,053 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Liferay\workspace\03-Receptor\src\test\resources
+2015-10-27 12:26:03,429 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-27 12:26:03,445 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-10-27 12:26:03,445 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-27 12:26:03,445 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Liferay\workspace\03-Receptor\src\test\resources
+2015-10-27 12:27:17,953 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-27 12:27:17,953 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-10-27 12:27:17,953 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-27 12:27:17,953 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Liferay\workspace\03-Receptor\src\test\resources
+2015-10-27 12:28:24,785 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-27 12:28:24,785 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-10-27 12:28:24,785 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-27 12:28:24,785 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Liferay\workspace\03-Receptor\src\test\resources

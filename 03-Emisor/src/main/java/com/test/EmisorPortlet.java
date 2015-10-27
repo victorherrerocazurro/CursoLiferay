@@ -11,6 +11,7 @@ import javax.portlet.PortletSession;
 import javax.portlet.ProcessAction;
 import javax.portlet.RenderRequest;
 import javax.portlet.RenderResponse;
+import javax.xml.namespace.QName;
 
 import com.liferay.portal.kernel.log.Log;
 import com.liferay.portal.kernel.log.LogFactoryUtil;
@@ -37,6 +38,14 @@ public class EmisorPortlet extends GenericPortlet {
     	
     	//1-Porlet Session con ambito de Application
     	request.getPortletSession().setAttribute("parametro", "El dato que envia el emisor", PortletSession.APPLICATION_SCOPE);
+    	
+    	//2-Public Render Parameter
+    	response.setRenderParameter("parametro", "El dato enviado desde el emisor como Render");
+    	
+    	
+		//3-Event
+    	QName namespace = new QName("http://liferay.com", "miEvento", "x");
+    	response.setEvent(namespace, "Este dato es el que enviamos al emisor con Eventos");
     	
     }
 

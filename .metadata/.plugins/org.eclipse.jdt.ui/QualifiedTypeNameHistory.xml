@@ -1,5 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
 <fullyQualifiedTypeName name="javax.portlet.RenderMode"/>
+<fullyQualifiedTypeName name="com.test.SaludadorPortlet"/>
+<fullyQualifiedTypeName name="java.lang.Override"/>
+<fullyQualifiedTypeName name="java.lang.String"/>
 <fullyQualifiedTypeName name="javax.portlet.ProcessAction"/>
+<fullyQualifiedTypeName name="javax.portlet.ActionRequest"/>
+<fullyQualifiedTypeName name="javax.portlet.PortletSession"/>
+<fullyQualifiedTypeName name="javax.xml.namespace.QName"/>
+<fullyQualifiedTypeName name="javax.portlet.ProcessEvent"/>
 </qualifiedTypeNameHistroy>

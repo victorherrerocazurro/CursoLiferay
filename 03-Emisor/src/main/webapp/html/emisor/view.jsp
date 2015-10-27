@@ -3,3 +3,7 @@
 <portlet:defineObjects />
 
 This is the <b>Emisor</b> portlet in View mode.
+
+<portlet:actionURL name="EnviarDato" var="urlEnviarDato"></portlet:actionURL>
+
+<a href="<%= urlEnviarDato%>"> Enviar Dato</a>

@@ -3,3 +3,19 @@
 <portlet:defineObjects />
 
 This is the <b>Receptor</b> portlet in View mode.
+
+<div id="<portlet:namespace/>_resultado"></div>
+
+<script>
+
+function <portlet:namespace/>_saludar(){
+	
+	//peticion ajax
+	
+	var div = document.getElementById("<portlet:namespace/>_resultado");
+	
+	div.innerHTML = "";
+	
+}
+
+</script>
