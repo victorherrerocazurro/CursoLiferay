@@ -1,0 +1,15 @@
+INDEX VERSION 1.127
+C:\Liferay\workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\367403941.index
+\01-GenericPortlet\src\main\java
+C:\Liferay\workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1641855912.index
+\02-ComunicacionEntreFases\src\main\java
+C:\Liferay\workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1699279840.index
+\03-Emisor\src\main\java
+C:\Liferay\workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3500769389.index
+\01-GenericPortlet\src\main\java
+C:\Liferay\workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2621758193.index
+\03-Emisor\src\main\java
+C:\Liferay\workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\4042041962.index
+\02-ComunicacionEntreFases\src\main\java
+C:\Liferay\workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\43120977.index
+\03-Receptor\src\main\java

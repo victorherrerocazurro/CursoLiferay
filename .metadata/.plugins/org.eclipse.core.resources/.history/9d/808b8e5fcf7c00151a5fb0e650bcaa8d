@@ -1,0 +1,12 @@
+<%@ taglib uri="http://java.sun.com/portlet_2_0" prefix="portlet" %>
+
+<portlet:defineObjects />
+
+This is the <b>Saludador</b> portlet in View mode.
+
+
+<%=renderRequest.getParameter("parametro")%>
+
+<%=renderRequest.getPortletSession().getAttribute("parametroSession")%>
+
+<%=renderRequest.getAttribute("parametroRequest")%>
