@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;05-PortletSpringMVC/src/main/webapp/html/new&apos; to &apos;MiSpringMvcPortlet&apos;" description="Rename resource &apos;new&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/main/webapp/html/new" name="MiSpringMvcPortlet" stamp="1446056238241" updateReferences="true"/>
+</session>

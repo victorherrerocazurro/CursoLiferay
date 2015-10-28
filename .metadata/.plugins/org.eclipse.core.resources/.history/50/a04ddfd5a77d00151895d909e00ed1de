@@ -1,0 +1,10 @@
+package com.ejemplo;
+
+public class Car {
+
+	public Car(String randomId, String randomBrand, int randomYear,
+			String randomColor, int randomPrice, boolean randomSoldState) {
+		// TODO Auto-generated constructor stub
+	}
+
+}

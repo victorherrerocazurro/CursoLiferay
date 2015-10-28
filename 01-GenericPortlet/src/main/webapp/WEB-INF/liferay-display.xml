@@ -5,5 +5,6 @@
 	<category name="category.sample">
 		<portlet id="01-GenericPortlet" />
 		<portlet id="new"></portlet>
+		<portlet id="JSFPortlet"></portlet>
 	</category>
 </display>

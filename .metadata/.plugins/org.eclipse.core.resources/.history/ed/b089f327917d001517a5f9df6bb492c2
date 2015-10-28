@@ -1,0 +1,8 @@
+<%@ taglib uri="http://java.sun.com/portlet_2_0" prefix="portlet" %>
+
+<portlet:defineObjects />
+
+This is the <b>Consulta</b> portlet in View mode.
+
+<portlet:resourceURL var="urlRecursoJson"></portlet:resourceURL>
+
