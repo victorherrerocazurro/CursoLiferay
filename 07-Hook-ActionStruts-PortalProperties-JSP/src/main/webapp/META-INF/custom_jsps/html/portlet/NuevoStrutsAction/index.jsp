@@ -1,0 +1,1 @@
+Este JSP esta siendo accedido desde un Action de Struts

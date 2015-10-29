@@ -1,0 +1,7 @@
+package com.ejemplo;
+
+import com.liferay.portal.service.UserLocalServiceWrapper;
+
+public class MiUserLocalService extends UserLocalServiceWrapper
+{
+}

@@ -1,0 +1,7 @@
+package com.ejemplo;
+
+import com.liferay.portal.kernel.struts.StrutsAction;
+
+public class MiStrtusAction implements StrutsAction
+{
+}

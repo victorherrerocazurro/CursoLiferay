@@ -1540,3 +1540,415 @@
 2015-10-29 09:03:28,864 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
 2015-10-29 09:03:28,880 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2015-10-29 09:03:28,880 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Liferay\workspace\06-PortletJSF2\src\test\resources
+2015-10-29 09:07:58,551 [Worker-1] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2015-10-29 09:07:59,456 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.ejemplo.liferay:05-PortletSpringMVC:1.0.0-SNAPSHOT @ C:\Liferay\workspace\05-PortletSpringMVC\pom.xml.
+2015-10-29 09:08:01,749 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /05-PortletSpringMVC/src/main/java
+2015-10-29 09:08:01,749 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /05-PortletSpringMVC/src/main/resources
+2015-10-29 09:08:01,749 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /05-PortletSpringMVC/src/test/java
+2015-10-29 09:08:03,512 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.ejemplo.liferay:05-PortletSpringMVC:1.0.0-SNAPSHOT @ C:\Liferay\workspace\05-PortletSpringMVC\pom.xml.
+2015-10-29 09:08:03,933 [Worker-1] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for 05-PortletSpringMVC
+2015-10-29 09:08:03,949 [Worker-1] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 5 sec
+2015-10-29 09:08:09,440 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-29 09:08:09,440 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-10-29 09:08:09,440 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-29 09:08:09,440 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Liferay\workspace\05-PortletSpringMVC\src\test\resources
+2015-10-29 09:35:29,373 [ModalContext] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' C:\Liferay\workspace\07-Hook-ActionStruts-Portal-Properties-\pom.xml
+2015-10-29 09:35:29,670 [ModalContext] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.ejemplo.liferay:07-Hook-ActionStruts-Portal-Properties-:1.0.0-SNAPSHOT @ C:\Liferay\workspace\07-Hook-ActionStruts-Portal-Properties-\pom.xml.
+2015-10-29 09:35:30,231 [ModalContext] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /07-Hook-ActionStruts-Portal-Properties-/src/main/java
+2015-10-29 09:35:30,231 [ModalContext] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /07-Hook-ActionStruts-Portal-Properties-/src/main/resources
+2015-10-29 09:35:30,294 [ModalContext] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /07-Hook-ActionStruts-Portal-Properties-/src/test/java
+2015-10-29 09:35:31,760 [ModalContext] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 2 sec
+2015-10-29 09:35:32,369 [Worker-13] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.ejemplo.liferay:07-Hook-ActionStruts-Portal-Properties-:1.0.0-SNAPSHOT @ C:\Liferay\workspace\07-Hook-ActionStruts-Portal-Properties-\pom.xml.
+2015-10-29 09:35:32,478 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Failed to retrieve plugin descriptor for com.liferay.maven.plugins:liferay-maven-plugin:${liferay.maven.plugin.version}: Plugin com.liferay.maven.plugins:liferay-maven-plugin:${liferay.maven.plugin.version} or one of its dependencies could not be resolved: Failed to read artifact descriptor for com.liferay.maven.plugins:liferay-maven-plugin:jar:${liferay.maven.plugin.version}
+2015-10-29 09:35:32,493 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Failed to retrieve plugin descriptor for com.liferay.maven.plugins:liferay-maven-plugin:${liferay.maven.plugin.version}: Plugin com.liferay.maven.plugins:liferay-maven-plugin:${liferay.maven.plugin.version} or one of its dependencies could not be resolved: Failed to read artifact descriptor for com.liferay.maven.plugins:liferay-maven-plugin:jar:${liferay.maven.plugin.version}
+2015-10-29 09:35:32,743 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-29 09:35:32,743 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-10-29 09:35:32,743 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-29 09:35:32,743 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Liferay\workspace\07-Hook-ActionStruts-Portal-Properties-\src\test\resources
+2015-10-29 09:35:33,071 [Worker-17] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.ejemplo.liferay:07-Hook-ActionStruts-Portal-Properties-:1.0.0-SNAPSHOT @ C:\Liferay\workspace\07-Hook-ActionStruts-Portal-Properties-\pom.xml.
+2015-10-29 09:35:33,164 [Worker-17] WARN  o.e.m.c.i.embedder.EclipseLogger - Failed to retrieve plugin descriptor for com.liferay.maven.plugins:liferay-maven-plugin:${liferay.maven.plugin.version}: Plugin com.liferay.maven.plugins:liferay-maven-plugin:${liferay.maven.plugin.version} or one of its dependencies could not be resolved: Failed to read artifact descriptor for com.liferay.maven.plugins:liferay-maven-plugin:jar:${liferay.maven.plugin.version}
+2015-10-29 09:35:33,164 [Worker-17] WARN  o.e.m.c.i.embedder.EclipseLogger - Failed to retrieve plugin descriptor for com.liferay.maven.plugins:liferay-maven-plugin:${liferay.maven.plugin.version}: Plugin com.liferay.maven.plugins:liferay-maven-plugin:${liferay.maven.plugin.version} or one of its dependencies could not be resolved: Failed to read artifact descriptor for com.liferay.maven.plugins:liferay-maven-plugin:jar:${liferay.maven.plugin.version}
+2015-10-29 09:35:33,258 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-29 09:35:33,273 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-10-29 09:35:33,273 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-29 09:35:33,273 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Liferay\workspace\07-Hook-ActionStruts-Portal-Properties-\src\test\resources
+2015-10-29 09:35:50,262 [Worker-3] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.ejemplo.liferay:07-Hook-ActionStruts-Portal-Properties-:1.0.0-SNAPSHOT @ C:\Liferay\workspace\07-Hook-ActionStruts-PortalProperties-JSP\pom.xml.
+2015-10-29 09:35:51,291 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Failed to retrieve plugin descriptor for com.liferay.maven.plugins:liferay-maven-plugin:${liferay.maven.plugin.version}: Plugin com.liferay.maven.plugins:liferay-maven-plugin:${liferay.maven.plugin.version} or one of its dependencies could not be resolved: Failed to read artifact descriptor for com.liferay.maven.plugins:liferay-maven-plugin:jar:${liferay.maven.plugin.version}
+2015-10-29 09:35:51,291 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Failed to retrieve plugin descriptor for com.liferay.maven.plugins:liferay-maven-plugin:${liferay.maven.plugin.version}: Plugin com.liferay.maven.plugins:liferay-maven-plugin:${liferay.maven.plugin.version} or one of its dependencies could not be resolved: Failed to read artifact descriptor for com.liferay.maven.plugins:liferay-maven-plugin:jar:${liferay.maven.plugin.version}
+2015-10-29 09:35:52,056 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-29 09:35:52,056 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-10-29 09:35:52,056 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-29 09:35:52,056 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Liferay\workspace\07-Hook-ActionStruts-PortalProperties-JSP\src\test\resources
+2015-10-29 09:35:52,805 [Worker-21] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.ejemplo.liferay:07-Hook-ActionStruts-Portal-Properties-:1.0.0-SNAPSHOT @ C:\Liferay\workspace\07-Hook-ActionStruts-PortalProperties-JSP\pom.xml.
+2015-10-29 09:35:53,007 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Failed to retrieve plugin descriptor for com.liferay.maven.plugins:liferay-maven-plugin:${liferay.maven.plugin.version}: Plugin com.liferay.maven.plugins:liferay-maven-plugin:${liferay.maven.plugin.version} or one of its dependencies could not be resolved: Failed to read artifact descriptor for com.liferay.maven.plugins:liferay-maven-plugin:jar:${liferay.maven.plugin.version}
+2015-10-29 09:35:53,007 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Failed to retrieve plugin descriptor for com.liferay.maven.plugins:liferay-maven-plugin:${liferay.maven.plugin.version}: Plugin com.liferay.maven.plugins:liferay-maven-plugin:${liferay.maven.plugin.version} or one of its dependencies could not be resolved: Failed to read artifact descriptor for com.liferay.maven.plugins:liferay-maven-plugin:jar:${liferay.maven.plugin.version}
+2015-10-29 09:35:53,241 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-29 09:35:53,241 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-10-29 09:35:53,241 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-29 09:35:53,241 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Liferay\workspace\07-Hook-ActionStruts-PortalProperties-JSP\src\test\resources
+2015-10-29 09:36:49,729 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/liferay/maven/archetypes/liferay-hook-archetype/6.2.1/liferay-hook-archetype-6.2.1.jar
+2015-10-29 09:36:49,807 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/liferay/maven/archetypes/liferay-hook-archetype/6.2.1/liferay-hook-archetype-6.2.1.jar
+2015-10-29 09:36:49,932 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/liferay/maven/archetypes/liferay-hook-archetype/6.2.1/liferay-hook-archetype-6.2.1.pom
+2015-10-29 09:36:50,010 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/liferay/maven/archetypes/liferay-hook-archetype/6.2.1/liferay-hook-archetype-6.2.1.pom
+2015-10-29 09:36:50,041 [ModalContext] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' C:\Liferay\workspace\07-Hook-ActionStruts-PortalProperties-JSP\pom.xml
+2015-10-29 09:36:50,197 [ModalContext] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.ejemplo.liferay:07-Hook-ActionStruts-PortalProperties-JSP:1.0.0-SNAPSHOT @ C:\Liferay\workspace\07-Hook-ActionStruts-PortalProperties-JSP\pom.xml.
+2015-10-29 09:36:51,024 [Worker-17] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.ejemplo.liferay:07-Hook-ActionStruts-PortalProperties-JSP:1.0.0-SNAPSHOT @ C:\Liferay\workspace\07-Hook-ActionStruts-PortalProperties-JSP\pom.xml.
+2015-10-29 09:36:51,336 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-29 09:36:51,336 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-10-29 09:36:51,336 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-29 09:36:51,336 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Liferay\workspace\07-Hook-ActionStruts-PortalProperties-JSP\src\test\resources
+2015-10-29 09:36:51,383 [ModalContext] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /07-Hook-ActionStruts-PortalProperties-JSP/src/main/java
+2015-10-29 09:36:51,383 [ModalContext] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /07-Hook-ActionStruts-PortalProperties-JSP/src/main/resources
+2015-10-29 09:36:51,398 [ModalContext] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /07-Hook-ActionStruts-PortalProperties-JSP/src/test/java
+2015-10-29 09:36:51,944 [ModalContext] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 1 sec
+2015-10-29 09:36:52,069 [ModalContext] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2015-10-29 09:36:52,163 [ModalContext] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.ejemplo.liferay:07-Hook-ActionStruts-PortalProperties-JSP:1.0.0-SNAPSHOT @ C:\Liferay\workspace\07-Hook-ActionStruts-PortalProperties-JSP\pom.xml.
+2015-10-29 09:36:52,693 [ModalContext] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /07-Hook-ActionStruts-PortalProperties-JSP/src/main/java
+2015-10-29 09:36:52,693 [ModalContext] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /07-Hook-ActionStruts-PortalProperties-JSP/src/main/resources
+2015-10-29 09:36:52,693 [ModalContext] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /07-Hook-ActionStruts-PortalProperties-JSP/src/test/java
+2015-10-29 09:36:53,099 [ModalContext] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.ejemplo.liferay:07-Hook-ActionStruts-PortalProperties-JSP:1.0.0-SNAPSHOT @ C:\Liferay\workspace\07-Hook-ActionStruts-PortalProperties-JSP\pom.xml.
+2015-10-29 09:36:53,286 [ModalContext] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for 07-Hook-ActionStruts-PortalProperties-JSP
+2015-10-29 09:36:53,302 [ModalContext] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2015-10-29 09:36:53,629 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-29 09:36:53,629 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-10-29 09:36:53,629 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-29 09:36:53,629 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Liferay\workspace\07-Hook-ActionStruts-PortalProperties-JSP\src\test\resources
+2015-10-29 09:42:03,731 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-29 09:42:03,735 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-10-29 09:42:03,737 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-29 09:42:03,737 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Liferay\workspace\07-Hook-ActionStruts-PortalProperties-JSP\src\test\resources
+2015-10-29 09:42:08,345 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-29 09:42:08,346 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-10-29 09:42:08,347 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-29 09:42:08,348 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Liferay\workspace\07-Hook-ActionStruts-PortalProperties-JSP\src\test\resources
+2015-10-29 09:43:53,806 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-29 09:43:53,807 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-10-29 09:43:53,809 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-29 09:43:53,809 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Liferay\workspace\07-Hook-ActionStruts-PortalProperties-JSP\src\test\resources
+2015-10-29 09:44:04,642 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-29 09:44:04,644 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-10-29 09:44:04,649 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-29 09:44:04,650 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Liferay\workspace\07-Hook-ActionStruts-PortalProperties-JSP\src\test\resources
+2015-10-29 09:44:48,243 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-29 09:44:48,244 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-10-29 09:44:48,245 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-29 09:44:48,245 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Liferay\workspace\07-Hook-ActionStruts-PortalProperties-JSP\src\test\resources
+2015-10-29 09:44:59,107 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-29 09:44:59,108 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-10-29 09:44:59,109 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-29 09:44:59,109 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Liferay\workspace\07-Hook-ActionStruts-PortalProperties-JSP\src\test\resources
+2015-10-29 09:45:35,423 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-29 09:45:35,423 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-10-29 09:45:35,425 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-29 09:45:35,425 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Liferay\workspace\07-Hook-ActionStruts-PortalProperties-JSP\src\test\resources
+2015-10-29 09:45:42,964 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-29 09:45:42,965 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-10-29 09:45:42,968 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-29 09:45:42,969 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Liferay\workspace\07-Hook-ActionStruts-PortalProperties-JSP\src\test\resources
+2015-10-29 09:46:02,513 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-29 09:46:02,514 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-10-29 09:46:02,518 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-29 09:46:02,519 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Liferay\workspace\07-Hook-ActionStruts-PortalProperties-JSP\src\test\resources
+2015-10-29 09:46:22,289 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-29 09:46:22,291 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-10-29 09:46:22,292 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-29 09:46:22,293 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Liferay\workspace\07-Hook-ActionStruts-PortalProperties-JSP\src\test\resources
+2015-10-29 09:46:33,732 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-29 09:46:33,733 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-10-29 09:46:33,734 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-29 09:46:33,735 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Liferay\workspace\07-Hook-ActionStruts-PortalProperties-JSP\src\test\resources
+2015-10-29 09:48:47,135 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-29 09:48:47,136 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-10-29 09:48:47,138 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-29 09:48:47,138 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Liferay\workspace\07-Hook-ActionStruts-PortalProperties-JSP\src\test\resources
+2015-10-29 09:49:51,812 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-29 09:49:51,813 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-10-29 09:49:51,814 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-29 09:49:51,815 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Liferay\workspace\07-Hook-ActionStruts-PortalProperties-JSP\src\test\resources
+2015-10-29 09:49:53,987 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-29 09:49:53,988 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-10-29 09:49:53,989 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-29 09:49:53,990 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Liferay\workspace\07-Hook-ActionStruts-PortalProperties-JSP\src\test\resources
+2015-10-29 09:57:02,359 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-29 09:57:02,360 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-10-29 09:57:02,362 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-29 09:57:02,363 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Liferay\workspace\07-Hook-ActionStruts-PortalProperties-JSP\src\test\resources
+2015-10-29 09:57:03,500 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-29 09:57:03,501 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-10-29 09:57:03,503 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-29 09:57:03,504 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Liferay\workspace\07-Hook-ActionStruts-PortalProperties-JSP\src\test\resources
+2015-10-29 09:57:32,402 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-29 09:57:32,403 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-10-29 09:57:32,405 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-29 09:57:32,405 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Liferay\workspace\07-Hook-ActionStruts-PortalProperties-JSP\src\test\resources
+2015-10-29 09:57:53,338 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-29 09:57:53,339 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-10-29 09:57:53,342 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-29 09:57:53,342 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Liferay\workspace\07-Hook-ActionStruts-PortalProperties-JSP\src\test\resources
+2015-10-29 09:58:44,041 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-29 09:58:44,042 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-10-29 09:58:44,043 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-29 09:58:44,044 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Liferay\workspace\07-Hook-ActionStruts-PortalProperties-JSP\src\test\resources
+2015-10-29 09:58:53,245 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-29 09:58:53,246 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-10-29 09:58:53,248 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-29 09:58:53,249 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Liferay\workspace\07-Hook-ActionStruts-PortalProperties-JSP\src\test\resources
+2015-10-29 09:59:21,732 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-29 09:59:21,733 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-10-29 09:59:21,735 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-29 09:59:21,735 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Liferay\workspace\07-Hook-ActionStruts-PortalProperties-JSP\src\test\resources
+2015-10-29 10:03:46,032 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-29 10:03:46,032 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-10-29 10:03:46,047 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-29 10:03:46,047 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Liferay\workspace\07-Hook-ActionStruts-PortalProperties-JSP\src\test\resources
+2015-10-29 10:06:11,639 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-29 10:06:11,655 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-10-29 10:06:11,655 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-29 10:06:11,655 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Liferay\workspace\07-Hook-ActionStruts-PortalProperties-JSP\src\test\resources
+2015-10-29 10:06:18,289 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-29 10:06:18,289 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-10-29 10:06:18,289 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-29 10:06:18,289 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Liferay\workspace\07-Hook-ActionStruts-PortalProperties-JSP\src\test\resources
+2015-10-29 10:09:45,229 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-29 10:09:45,229 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-10-29 10:09:45,229 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-29 10:09:45,229 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Liferay\workspace\07-Hook-ActionStruts-PortalProperties-JSP\src\test\resources
+2015-10-29 10:09:46,946 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-29 10:09:46,946 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-10-29 10:09:46,946 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-29 10:09:46,946 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Liferay\workspace\07-Hook-ActionStruts-PortalProperties-JSP\src\test\resources
+2015-10-29 10:10:30,371 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-29 10:10:30,371 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-10-29 10:10:30,371 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-29 10:10:30,371 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Liferay\workspace\07-Hook-ActionStruts-PortalProperties-JSP\src\test\resources
+2015-10-29 10:19:11,432 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-29 10:19:11,432 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-10-29 10:19:11,432 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-29 10:19:11,448 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Liferay\workspace\07-Hook-ActionStruts-PortalProperties-JSP\src\test\resources
+2015-10-29 10:19:20,591 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-29 10:19:20,591 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-10-29 10:19:20,591 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-29 10:19:20,591 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Liferay\workspace\07-Hook-ActionStruts-PortalProperties-JSP\src\test\resources
+2015-10-29 10:20:25,011 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-29 10:20:25,027 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-10-29 10:20:25,027 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-29 10:20:25,027 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Liferay\workspace\07-Hook-ActionStruts-PortalProperties-JSP\src\test\resources
+2015-10-29 10:24:26,851 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-29 10:24:26,851 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-10-29 10:24:26,851 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-29 10:24:26,851 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Liferay\workspace\07-Hook-ActionStruts-PortalProperties-JSP\src\test\resources
+2015-10-29 10:25:17,278 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-29 10:25:17,325 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-10-29 10:25:17,356 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-29 10:25:17,356 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Liferay\workspace\07-Hook-ActionStruts-PortalProperties-JSP\src\test\resources
+2015-10-29 10:36:55,597 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-29 10:36:55,597 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-10-29 10:36:55,597 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-29 10:36:55,597 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Liferay\workspace\07-Hook-ActionStruts-PortalProperties-JSP\src\test\resources
+2015-10-29 10:36:56,689 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-29 10:36:56,689 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-10-29 10:36:56,689 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-29 10:36:56,689 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Liferay\workspace\07-Hook-ActionStruts-PortalProperties-JSP\src\test\resources
+2015-10-29 10:38:09,491 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-29 10:38:09,491 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-10-29 10:38:09,491 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-29 10:38:09,491 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Liferay\workspace\07-Hook-ActionStruts-PortalProperties-JSP\src\test\resources
+2015-10-29 10:39:28,547 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-29 10:39:28,547 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-10-29 10:39:28,547 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-29 10:39:28,547 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Liferay\workspace\07-Hook-ActionStruts-PortalProperties-JSP\src\test\resources
+2015-10-29 10:40:34,009 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-29 10:40:34,009 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-10-29 10:40:34,009 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-29 10:40:34,009 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Liferay\workspace\07-Hook-ActionStruts-PortalProperties-JSP\src\test\resources
+2015-10-29 10:42:14,639 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-29 10:42:14,639 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-10-29 10:42:14,639 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-29 10:42:14,639 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Liferay\workspace\02-ComunicacionEntreFases\src\test\resources
+2015-10-29 10:42:30,540 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-29 10:42:30,540 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-10-29 10:42:30,555 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-29 10:42:30,555 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Liferay\workspace\02-ComunicacionEntreFases\src\test\resources
+2015-10-29 10:44:18,068 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-29 10:44:18,068 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-10-29 10:44:18,068 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-29 10:44:18,068 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Liferay\workspace\02-ComunicacionEntreFases\src\test\resources
+2015-10-29 10:44:55,355 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-29 10:44:55,355 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-10-29 10:44:55,355 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-29 10:44:55,355 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Liferay\workspace\02-ComunicacionEntreFases\src\test\resources
+2015-10-29 10:45:43,877 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-29 10:45:43,877 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-10-29 10:45:43,877 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-29 10:45:43,877 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Liferay\workspace\02-ComunicacionEntreFases\src\test\resources
+2015-10-29 10:50:34,477 [ModalContext] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' C:\Liferay\workspace\07-Hook-Indexador-Usuarios\pom.xml
+2015-10-29 10:50:34,711 [ModalContext] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.ejemplo.liferay:07-Hook-Indexador-Usuarios:1.0.0-SNAPSHOT @ C:\Liferay\workspace\07-Hook-Indexador-Usuarios\pom.xml.
+2015-10-29 10:50:35,444 [ModalContext] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /07-Hook-Indexador-Usuarios/src/main/java
+2015-10-29 10:50:35,444 [ModalContext] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /07-Hook-Indexador-Usuarios/src/main/resources
+2015-10-29 10:50:35,459 [ModalContext] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /07-Hook-Indexador-Usuarios/src/test/java
+2015-10-29 10:50:36,364 [ModalContext] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 1 sec
+2015-10-29 10:50:36,536 [ModalContext] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2015-10-29 10:50:36,598 [ModalContext] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.ejemplo.liferay:07-Hook-Indexador-Usuarios:1.0.0-SNAPSHOT @ C:\Liferay\workspace\07-Hook-Indexador-Usuarios\pom.xml.
+2015-10-29 10:50:38,330 [ModalContext] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /07-Hook-Indexador-Usuarios/src/main/java
+2015-10-29 10:50:38,330 [ModalContext] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /07-Hook-Indexador-Usuarios/src/main/resources
+2015-10-29 10:50:38,330 [ModalContext] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /07-Hook-Indexador-Usuarios/src/test/java
+2015-10-29 10:50:39,033 [Worker-6] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.ejemplo.liferay:07-Hook-Indexador-Usuarios:1.0.0-SNAPSHOT @ C:\Liferay\workspace\07-Hook-Indexador-Usuarios\pom.xml.
+2015-10-29 10:50:39,241 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-29 10:50:39,241 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-10-29 10:50:39,241 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-29 10:50:39,241 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Liferay\workspace\07-Hook-Indexador-Usuarios\src\test\resources
+2015-10-29 10:50:39,319 [ModalContext] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for 07-Hook-Indexador-Usuarios
+2015-10-29 10:50:39,334 [ModalContext] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 2 sec
+2015-10-29 10:50:40,426 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-29 10:50:40,426 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-10-29 10:50:40,442 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-29 10:50:40,442 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Liferay\workspace\07-Hook-Indexador-Usuarios\src\test\resources
+2015-10-29 10:51:24,338 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-29 10:51:24,338 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-10-29 10:51:24,338 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-29 10:51:24,338 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Liferay\workspace\07-Hook-Indexador-Usuarios\src\test\resources
+2015-10-29 10:51:25,430 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-29 10:51:25,430 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-10-29 10:51:25,430 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-29 10:51:25,430 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Liferay\workspace\07-Hook-Indexador-Usuarios\src\test\resources
+2015-10-29 10:55:29,226 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-29 10:55:29,226 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-10-29 10:55:29,226 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-29 10:55:29,226 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Liferay\workspace\07-Hook-Indexador-Usuarios\src\test\resources
+2015-10-29 10:55:41,772 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-29 10:55:41,772 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-10-29 10:55:41,772 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-29 10:55:41,772 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Liferay\workspace\07-Hook-Indexador-Usuarios\src\test\resources
+2015-10-29 11:03:42,006 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/liferay/maven/archetypes/liferay-ext-archetype/6.2.1/liferay-ext-archetype-6.2.1.jar
+2015-10-29 11:03:42,256 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/liferay/maven/archetypes/liferay-ext-archetype/6.2.1/liferay-ext-archetype-6.2.1.jar
+2015-10-29 11:03:42,396 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/liferay/maven/archetypes/liferay-ext-archetype/6.2.1/liferay-ext-archetype-6.2.1.pom
+2015-10-29 11:03:42,630 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/liferay/maven/archetypes/liferay-ext-archetype/6.2.1/liferay-ext-archetype-6.2.1.pom
+2015-10-29 11:03:42,755 [ModalContext] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' C:\Liferay\workspace\08-Ext-BaseDeDatos\pom.xml
+2015-10-29 11:03:42,755 [ModalContext] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '08-Ext-BaseDeDatos-ext/pom.xml' C:\Liferay\workspace\08-Ext-BaseDeDatos\08-Ext-BaseDeDatos-ext\pom.xml
+2015-10-29 11:03:42,755 [ModalContext] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '08-Ext-BaseDeDatos-ext-impl/pom.xml' C:\Liferay\workspace\08-Ext-BaseDeDatos\08-Ext-BaseDeDatos-ext-impl\pom.xml
+2015-10-29 11:03:42,755 [ModalContext] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '08-Ext-BaseDeDatos-ext-lib-global/pom.xml' C:\Liferay\workspace\08-Ext-BaseDeDatos\08-Ext-BaseDeDatos-ext-lib-global\pom.xml
+2015-10-29 11:03:42,755 [ModalContext] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '08-Ext-BaseDeDatos-ext-lib-portal/pom.xml' C:\Liferay\workspace\08-Ext-BaseDeDatos\08-Ext-BaseDeDatos-ext-lib-portal\pom.xml
+2015-10-29 11:03:42,755 [ModalContext] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '08-Ext-BaseDeDatos-ext-service/pom.xml' C:\Liferay\workspace\08-Ext-BaseDeDatos\08-Ext-BaseDeDatos-ext-service\pom.xml
+2015-10-29 11:03:42,755 [ModalContext] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '08-Ext-BaseDeDatos-ext-util-bridges/pom.xml' C:\Liferay\workspace\08-Ext-BaseDeDatos\08-Ext-BaseDeDatos-ext-util-bridges\pom.xml
+2015-10-29 11:03:42,755 [ModalContext] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '08-Ext-BaseDeDatos-ext-util-java/pom.xml' C:\Liferay\workspace\08-Ext-BaseDeDatos\08-Ext-BaseDeDatos-ext-util-java\pom.xml
+2015-10-29 11:03:42,755 [ModalContext] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '08-Ext-BaseDeDatos-ext-util-taglib/pom.xml' C:\Liferay\workspace\08-Ext-BaseDeDatos\08-Ext-BaseDeDatos-ext-util-taglib\pom.xml
+2015-10-29 11:03:42,755 [ModalContext] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '08-Ext-BaseDeDatos-ext-web/pom.xml' C:\Liferay\workspace\08-Ext-BaseDeDatos\08-Ext-BaseDeDatos-ext-web\pom.xml
+2015-10-29 11:03:44,925 [ModalContext] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: com.ejemplo.liferay:08-Ext-BaseDeDatos:1.0.0-SNAPSHOT @ C:\Liferay\workspace\08-Ext-BaseDeDatos\pom.xml.
+2015-10-29 11:03:45,097 [ModalContext] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.ejemplo.liferay:08-Ext-BaseDeDatos-ext:1.0.0-SNAPSHOT @ C:\Liferay\workspace\08-Ext-BaseDeDatos\08-Ext-BaseDeDatos-ext\pom.xml.
+2015-10-29 11:03:45,237 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-jar-plugin/2.4/maven-jar-plugin-2.4.jar
+2015-10-29 11:03:45,393 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-jar-plugin/2.4/maven-jar-plugin-2.4.jar
+2015-10-29 11:03:45,705 [ModalContext] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ejemplo.liferay:08-Ext-BaseDeDatos-ext-impl:1.0.0-SNAPSHOT @ C:\Liferay\workspace\08-Ext-BaseDeDatos\08-Ext-BaseDeDatos-ext-impl\pom.xml.
+2015-10-29 11:03:45,721 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/liferay/portal/portal-impl/${liferay.version}/portal-impl-${liferay.version}.pom
+2015-10-29 11:03:45,799 [ModalContext] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: com.ejemplo.liferay:08-Ext-BaseDeDatos-ext-lib-global:1.0.0-SNAPSHOT @ C:\Liferay\workspace\08-Ext-BaseDeDatos\08-Ext-BaseDeDatos-ext-lib-global\pom.xml.
+2015-10-29 11:03:45,814 [ModalContext] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: com.ejemplo.liferay:08-Ext-BaseDeDatos-ext-lib-portal:1.0.0-SNAPSHOT @ C:\Liferay\workspace\08-Ext-BaseDeDatos\08-Ext-BaseDeDatos-ext-lib-portal\pom.xml.
+2015-10-29 11:03:45,892 [ModalContext] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ejemplo.liferay:08-Ext-BaseDeDatos-ext-service:1.0.0-SNAPSHOT @ C:\Liferay\workspace\08-Ext-BaseDeDatos\08-Ext-BaseDeDatos-ext-service\pom.xml.
+2015-10-29 11:03:45,986 [ModalContext] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ejemplo.liferay:08-Ext-BaseDeDatos-ext-util-bridges:1.0.0-SNAPSHOT @ C:\Liferay\workspace\08-Ext-BaseDeDatos\08-Ext-BaseDeDatos-ext-util-bridges\pom.xml.
+2015-10-29 11:03:46,064 [ModalContext] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ejemplo.liferay:08-Ext-BaseDeDatos-ext-util-java:1.0.0-SNAPSHOT @ C:\Liferay\workspace\08-Ext-BaseDeDatos\08-Ext-BaseDeDatos-ext-util-java\pom.xml.
+2015-10-29 11:03:46,126 [ModalContext] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ejemplo.liferay:08-Ext-BaseDeDatos-ext-util-taglib:1.0.0-SNAPSHOT @ C:\Liferay\workspace\08-Ext-BaseDeDatos\08-Ext-BaseDeDatos-ext-util-taglib\pom.xml.
+2015-10-29 11:03:46,204 [ModalContext] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.ejemplo.liferay:08-Ext-BaseDeDatos-ext-web:1.0.0-SNAPSHOT @ C:\Liferay\workspace\08-Ext-BaseDeDatos\08-Ext-BaseDeDatos-ext-web\pom.xml.
+2015-10-29 11:03:47,983 [ModalContext] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /08-Ext-BaseDeDatos-ext-service/src/main/java
+2015-10-29 11:03:47,983 [ModalContext] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /08-Ext-BaseDeDatos-ext-service/src/test/java
+2015-10-29 11:03:48,061 [ModalContext] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /08-Ext-BaseDeDatos-ext-util-java/src/main/java
+2015-10-29 11:03:48,092 [ModalContext] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /08-Ext-BaseDeDatos-ext-util-java/src/test/java
+2015-10-29 11:03:48,404 [ModalContext] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /08-Ext-BaseDeDatos-ext-util-bridges/src/main/java
+2015-10-29 11:03:48,404 [ModalContext] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /08-Ext-BaseDeDatos-ext-util-bridges/src/test/java
+2015-10-29 11:03:48,498 [ModalContext] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /08-Ext-BaseDeDatos-ext-util-taglib/src/main/java
+2015-10-29 11:03:48,498 [ModalContext] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /08-Ext-BaseDeDatos-ext-util-taglib/src/test/java
+2015-10-29 11:03:48,591 [ModalContext] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /08-Ext-BaseDeDatos-ext-impl/src/main/java
+2015-10-29 11:03:48,591 [ModalContext] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /08-Ext-BaseDeDatos-ext-impl/src/main/resources
+2015-10-29 11:03:48,591 [ModalContext] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /08-Ext-BaseDeDatos-ext-impl/src/test/java
+2015-10-29 11:03:48,685 [ModalContext] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /08-Ext-BaseDeDatos-ext-web/src/main/java
+2015-10-29 11:03:48,685 [ModalContext] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /08-Ext-BaseDeDatos-ext-web/src/test/java
+2015-10-29 11:03:50,432 [ModalContext] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /08-Ext-BaseDeDatos-ext/src/main/java
+2015-10-29 11:03:50,432 [ModalContext] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /08-Ext-BaseDeDatos-ext/src/test/java
+2015-10-29 11:03:51,867 [ModalContext] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 10 project(s) in 9 sec
+2015-10-29 11:03:52,023 [ModalContext] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2015-10-29 11:03:52,195 [ModalContext] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: com.ejemplo.liferay:08-Ext-BaseDeDatos:1.0.0-SNAPSHOT @ C:\Liferay\workspace\08-Ext-BaseDeDatos\pom.xml.
+2015-10-29 11:03:52,304 [ModalContext] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.ejemplo.liferay:08-Ext-BaseDeDatos-ext:1.0.0-SNAPSHOT @ C:\Liferay\workspace\08-Ext-BaseDeDatos\08-Ext-BaseDeDatos-ext\pom.xml.
+2015-10-29 11:03:52,444 [ModalContext] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ejemplo.liferay:08-Ext-BaseDeDatos-ext-service:1.0.0-SNAPSHOT @ C:\Liferay\workspace\08-Ext-BaseDeDatos\08-Ext-BaseDeDatos-ext-service\pom.xml.
+2015-10-29 11:03:52,538 [ModalContext] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.ejemplo.liferay:08-Ext-BaseDeDatos-ext-web:1.0.0-SNAPSHOT @ C:\Liferay\workspace\08-Ext-BaseDeDatos\08-Ext-BaseDeDatos-ext-web\pom.xml.
+2015-10-29 11:03:52,616 [ModalContext] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ejemplo.liferay:08-Ext-BaseDeDatos-ext-util-bridges:1.0.0-SNAPSHOT @ C:\Liferay\workspace\08-Ext-BaseDeDatos\08-Ext-BaseDeDatos-ext-util-bridges\pom.xml.
+2015-10-29 11:03:52,710 [ModalContext] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ejemplo.liferay:08-Ext-BaseDeDatos-ext-util-java:1.0.0-SNAPSHOT @ C:\Liferay\workspace\08-Ext-BaseDeDatos\08-Ext-BaseDeDatos-ext-util-java\pom.xml.
+2015-10-29 11:03:52,788 [ModalContext] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ejemplo.liferay:08-Ext-BaseDeDatos-ext-util-taglib:1.0.0-SNAPSHOT @ C:\Liferay\workspace\08-Ext-BaseDeDatos\08-Ext-BaseDeDatos-ext-util-taglib\pom.xml.
+2015-10-29 11:03:52,803 [ModalContext] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: com.ejemplo.liferay:08-Ext-BaseDeDatos-ext-lib-portal:1.0.0-SNAPSHOT @ C:\Liferay\workspace\08-Ext-BaseDeDatos\08-Ext-BaseDeDatos-ext-lib-portal\pom.xml.
+2015-10-29 11:03:52,881 [ModalContext] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ejemplo.liferay:08-Ext-BaseDeDatos-ext-impl:1.0.0-SNAPSHOT @ C:\Liferay\workspace\08-Ext-BaseDeDatos\08-Ext-BaseDeDatos-ext-impl\pom.xml.
+2015-10-29 11:03:52,928 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/liferay/portal/portal-impl/6.2.2/portal-impl-6.2.2.pom
+2015-10-29 11:03:53,162 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/liferay/portal/portal-impl/6.2.2/portal-impl-6.2.2.pom
+2015-10-29 11:03:54,207 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/liferay/portal/portal-impl/6.2.2/portal-impl-6.2.2.jar
+2015-10-29 11:04:06,139 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/liferay/portal/portal-impl/6.2.2/portal-impl-6.2.2.jar
+2015-10-29 11:04:06,435 [ModalContext] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: com.ejemplo.liferay:08-Ext-BaseDeDatos-ext-lib-global:1.0.0-SNAPSHOT @ C:\Liferay\workspace\08-Ext-BaseDeDatos\08-Ext-BaseDeDatos-ext-lib-global\pom.xml.
+2015-10-29 11:04:08,807 [ModalContext] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 16 sec
+2015-10-29 11:04:08,807 [ModalContext] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2015-10-29 11:04:08,900 [ModalContext] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.ejemplo.liferay:08-Ext-BaseDeDatos-ext:1.0.0-SNAPSHOT @ C:\Liferay\workspace\08-Ext-BaseDeDatos\08-Ext-BaseDeDatos-ext\pom.xml.
+2015-10-29 11:04:09,587 [ModalContext] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /08-Ext-BaseDeDatos-ext/src/main/java
+2015-10-29 11:04:09,587 [ModalContext] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /08-Ext-BaseDeDatos-ext/src/test/java
+2015-10-29 11:04:10,788 [ModalContext] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.ejemplo.liferay:08-Ext-BaseDeDatos-ext:1.0.0-SNAPSHOT @ C:\Liferay\workspace\08-Ext-BaseDeDatos\08-Ext-BaseDeDatos-ext\pom.xml.
+2015-10-29 11:04:12,005 [ModalContext] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for 08-Ext-BaseDeDatos-ext
+2015-10-29 11:04:12,020 [ModalContext] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 3 sec
+2015-10-29 11:04:12,020 [ModalContext] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2015-10-29 11:04:12,114 [ModalContext] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ejemplo.liferay:08-Ext-BaseDeDatos-ext-impl:1.0.0-SNAPSHOT @ C:\Liferay\workspace\08-Ext-BaseDeDatos\08-Ext-BaseDeDatos-ext-impl\pom.xml.
+2015-10-29 11:04:12,551 [ModalContext] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /08-Ext-BaseDeDatos-ext-impl/src/main/java
+2015-10-29 11:04:12,551 [ModalContext] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /08-Ext-BaseDeDatos-ext-impl/src/main/resources
+2015-10-29 11:04:12,551 [ModalContext] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /08-Ext-BaseDeDatos-ext-impl/src/test/java
+2015-10-29 11:04:13,487 [ModalContext] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2015-10-29 11:04:13,487 [ModalContext] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2015-10-29 11:04:13,533 [ModalContext] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: com.ejemplo.liferay:08-Ext-BaseDeDatos-ext-lib-global:1.0.0-SNAPSHOT @ C:\Liferay\workspace\08-Ext-BaseDeDatos\08-Ext-BaseDeDatos-ext-lib-global\pom.xml.
+2015-10-29 11:04:13,721 [ModalContext] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2015-10-29 11:04:13,721 [ModalContext] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2015-10-29 11:04:13,752 [ModalContext] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: com.ejemplo.liferay:08-Ext-BaseDeDatos-ext-lib-portal:1.0.0-SNAPSHOT @ C:\Liferay\workspace\08-Ext-BaseDeDatos\08-Ext-BaseDeDatos-ext-lib-portal\pom.xml.
+2015-10-29 11:04:14,173 [ModalContext] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2015-10-29 11:04:14,173 [ModalContext] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2015-10-29 11:04:14,329 [ModalContext] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ejemplo.liferay:08-Ext-BaseDeDatos-ext-service:1.0.0-SNAPSHOT @ C:\Liferay\workspace\08-Ext-BaseDeDatos\08-Ext-BaseDeDatos-ext-service\pom.xml.
+2015-10-29 11:04:14,563 [ModalContext] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /08-Ext-BaseDeDatos-ext-service/src/main/java
+2015-10-29 11:04:14,563 [ModalContext] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /08-Ext-BaseDeDatos-ext-service/src/test/java
+2015-10-29 11:04:15,706 [ModalContext] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2015-10-29 11:04:15,706 [ModalContext] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2015-10-29 11:04:15,815 [ModalContext] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ejemplo.liferay:08-Ext-BaseDeDatos-ext-util-bridges:1.0.0-SNAPSHOT @ C:\Liferay\workspace\08-Ext-BaseDeDatos\08-Ext-BaseDeDatos-ext-util-bridges\pom.xml.
+2015-10-29 11:04:16,174 [ModalContext] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /08-Ext-BaseDeDatos-ext-util-bridges/src/main/java
+2015-10-29 11:04:16,189 [ModalContext] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /08-Ext-BaseDeDatos-ext-util-bridges/src/test/java
+2015-10-29 11:04:16,283 [ModalContext] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2015-10-29 11:04:16,283 [ModalContext] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2015-10-29 11:04:17,281 [ModalContext] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ejemplo.liferay:08-Ext-BaseDeDatos-ext-util-java:1.0.0-SNAPSHOT @ C:\Liferay\workspace\08-Ext-BaseDeDatos\08-Ext-BaseDeDatos-ext-util-java\pom.xml.
+2015-10-29 11:04:17,546 [ModalContext] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /08-Ext-BaseDeDatos-ext-util-java/src/main/java
+2015-10-29 11:04:17,546 [ModalContext] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /08-Ext-BaseDeDatos-ext-util-java/src/test/java
+2015-10-29 11:04:17,640 [ModalContext] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2015-10-29 11:04:17,640 [ModalContext] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2015-10-29 11:04:17,749 [ModalContext] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ejemplo.liferay:08-Ext-BaseDeDatos-ext-util-taglib:1.0.0-SNAPSHOT @ C:\Liferay\workspace\08-Ext-BaseDeDatos\08-Ext-BaseDeDatos-ext-util-taglib\pom.xml.
+2015-10-29 11:04:18,233 [ModalContext] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /08-Ext-BaseDeDatos-ext-util-taglib/src/main/java
+2015-10-29 11:04:18,233 [ModalContext] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /08-Ext-BaseDeDatos-ext-util-taglib/src/test/java
+2015-10-29 11:04:18,342 [ModalContext] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2015-10-29 11:04:18,342 [ModalContext] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2015-10-29 11:04:18,482 [ModalContext] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.ejemplo.liferay:08-Ext-BaseDeDatos-ext-web:1.0.0-SNAPSHOT @ C:\Liferay\workspace\08-Ext-BaseDeDatos\08-Ext-BaseDeDatos-ext-web\pom.xml.
+2015-10-29 11:04:19,294 [ModalContext] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /08-Ext-BaseDeDatos-ext-web/src/main/java
+2015-10-29 11:04:19,294 [ModalContext] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /08-Ext-BaseDeDatos-ext-web/src/test/java
+2015-10-29 11:04:19,668 [ModalContext] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.ejemplo.liferay:08-Ext-BaseDeDatos-ext-web:1.0.0-SNAPSHOT @ C:\Liferay\workspace\08-Ext-BaseDeDatos\08-Ext-BaseDeDatos-ext-web\pom.xml.
+2015-10-29 11:04:19,949 [ModalContext] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for 08-Ext-BaseDeDatos-ext-web
+2015-10-29 11:04:19,996 [ModalContext] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2015-10-29 11:04:20,339 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-29 11:04:20,339 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Liferay\workspace\08-Ext-BaseDeDatos\08-Ext-BaseDeDatos-ext-service\src\main\resources
+2015-10-29 11:04:20,354 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-29 11:04:20,354 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Liferay\workspace\08-Ext-BaseDeDatos\08-Ext-BaseDeDatos-ext-service\src\test\resources
+2015-10-29 11:04:20,417 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-29 11:04:20,417 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Liferay\workspace\08-Ext-BaseDeDatos\08-Ext-BaseDeDatos-ext-util-bridges\src\main\resources
+2015-10-29 11:04:20,417 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-29 11:04:20,417 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Liferay\workspace\08-Ext-BaseDeDatos\08-Ext-BaseDeDatos-ext-util-bridges\src\test\resources
+2015-10-29 11:04:20,495 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-29 11:04:20,495 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Liferay\workspace\08-Ext-BaseDeDatos\08-Ext-BaseDeDatos-ext-util-java\src\main\resources
+2015-10-29 11:04:20,495 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-29 11:04:20,495 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Liferay\workspace\08-Ext-BaseDeDatos\08-Ext-BaseDeDatos-ext-util-java\src\test\resources
+2015-10-29 11:04:20,978 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-29 11:04:20,978 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Liferay\workspace\08-Ext-BaseDeDatos\08-Ext-BaseDeDatos-ext-util-taglib\src\main\resources
+2015-10-29 11:04:20,978 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-29 11:04:20,978 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Liferay\workspace\08-Ext-BaseDeDatos\08-Ext-BaseDeDatos-ext-util-taglib\src\test\resources
+2015-10-29 11:04:21,134 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-29 11:04:21,134 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-10-29 11:04:21,134 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-29 11:04:21,134 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Liferay\workspace\08-Ext-BaseDeDatos\08-Ext-BaseDeDatos-ext-impl\src\test\resources
+2015-10-29 11:04:21,275 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-29 11:04:21,275 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Liferay\workspace\08-Ext-BaseDeDatos\08-Ext-BaseDeDatos-ext\src\main\resources
+2015-10-29 11:04:21,275 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-29 11:04:21,275 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Liferay\workspace\08-Ext-BaseDeDatos\08-Ext-BaseDeDatos-ext\src\test\resources
+2015-10-29 11:04:21,446 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-29 11:04:21,446 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Liferay\workspace\08-Ext-BaseDeDatos\08-Ext-BaseDeDatos-ext-web\src\main\resources
+2015-10-29 11:04:21,446 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-29 11:04:21,446 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Liferay\workspace\08-Ext-BaseDeDatos\08-Ext-BaseDeDatos-ext-web\src\test\resources

@@ -1,0 +1,7 @@
+package com.ejemplo;
+
+import com.liferay.portal.kernel.search.IndexerPostProcessor;
+
+public class MiUserIndexer implements IndexerPostProcessor
+{
+}

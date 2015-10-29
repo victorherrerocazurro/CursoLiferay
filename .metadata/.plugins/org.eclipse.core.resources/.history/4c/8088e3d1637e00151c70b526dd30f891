@@ -1,0 +1,12 @@
+package com.ejemplo;
+
+import com.liferay.portal.service.UserLocalService;
+import com.liferay.portal.service.UserLocalServiceWrapper;
+
+public class MiUserLocalService extends UserLocalServiceWrapper {
+
+	public MiUserLocalService(UserLocalService userLocalService) {
+		super(userLocalService);
+		// TODO Auto-generated constructor stub
+	}
+}

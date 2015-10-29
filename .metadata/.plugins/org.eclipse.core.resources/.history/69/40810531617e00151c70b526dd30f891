@@ -1,0 +1,25 @@
+package com.ejemploo;
+
+import javax.portlet.ActionRequest;
+import javax.portlet.ActionResponse;
+import javax.portlet.PortletConfig;
+
+import com.liferay.portal.kernel.struts.BaseStrutsPortletAction;
+import com.liferay.portal.kernel.struts.StrutsPortletAction;
+
+public class MiLoginStrutsAction extends BaseStrutsPortletAction {
+
+	@Override
+	public void processAction(StrutsPortletAction originalStrutsPortletAction,
+			PortletConfig portletConfig, ActionRequest actionRequest,
+			ActionResponse actionResponse) throws Exception {
+		
+		System.out.println("En el Mi Struts Action login");
+		
+		originalStrutsPortletAction.processAction(originalStrutsPortletAction, portletConfig, actionRequest, actionResponse);
+		
+		super.processAction(originalStrutsPortletAction, portletConfig, actionRequest,
+				actionResponse);
+	}
+	
+}

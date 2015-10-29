@@ -1,0 +1,54 @@
+package com.ejemplo;
+
+import java.util.Locale;
+
+import javax.portlet.PortletURL;
+
+import com.liferay.portal.kernel.search.BooleanQuery;
+import com.liferay.portal.kernel.search.Document;
+import com.liferay.portal.kernel.search.IndexerPostProcessor;
+import com.liferay.portal.kernel.search.SearchContext;
+import com.liferay.portal.kernel.search.Summary;
+
+public class MiUserIndexer implements IndexerPostProcessor {
+
+	@Override
+	public void postProcessContextQuery(BooleanQuery arg0, SearchContext arg1)
+			throws Exception {
+		// TODO Auto-generated method stub
+
+	}
+
+	@Override
+	public void postProcessDocument(Document arg0, Object arg1)
+			throws Exception {
+		// TODO Auto-generated method stub
+
+	}
+
+	@Override
+	public void postProcessFullQuery(BooleanQuery arg0, SearchContext arg1)
+			throws Exception {
+		// TODO Auto-generated method stub
+
+	}
+
+	@Override
+	public void postProcessSearchQuery(BooleanQuery arg0, SearchContext arg1)
+			throws Exception {
+		// TODO Auto-generated method stub
+
+	}
+
+	@Override
+	public void postProcessSummary(Summary arg0, Document arg1, Locale arg2,
+			String arg3, PortletURL arg4) {
+		// TODO Auto-generated method stub
+
+	}
+
+	public MiUserIndexer() {
+		super();
+		// TODO Auto-generated constructor stub
+	}
+}

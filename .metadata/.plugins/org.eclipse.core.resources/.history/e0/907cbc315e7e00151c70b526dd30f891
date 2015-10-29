@@ -1,0 +1,9 @@
+package com.ejemploo;
+
+import com.liferay.portal.kernel.struts.BaseStrutsPortletAction;
+
+public class MiLoginStrutsAction extends BaseStrutsPortletAction {
+
+	
+	
+}

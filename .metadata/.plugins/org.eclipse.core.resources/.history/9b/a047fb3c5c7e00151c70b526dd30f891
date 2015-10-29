@@ -1,0 +1,28 @@
+package com.ejemplo;
+
+import javax.servlet.http.HttpServletRequest;
+import javax.servlet.http.HttpServletResponse;
+
+import com.liferay.portal.kernel.struts.StrutsAction;
+
+public class MiStrtusAction implements StrutsAction {
+
+	@Override
+	public String execute(HttpServletRequest arg0, HttpServletResponse arg1)
+			throws Exception {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public String execute(StrutsAction arg0, HttpServletRequest arg1,
+			HttpServletResponse arg2) throws Exception {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	public MiStrtusAction() {
+		super();
+		// TODO Auto-generated constructor stub
+	}
+}
