@@ -16,4 +16,11 @@
 <fullyQualifiedTypeName name="org.springframework.web.portlet.ModelAndView"/>
 <fullyQualifiedTypeName name="org.springframework.web.portlet.bind.annotation.ActionMapping"/>
 <fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="com.liferay.portal.kernel.struts.BaseStrutsAction"/>
+<fullyQualifiedTypeName name="com.liferay.portal.kernel.struts.BaseStrutsPortletAction"/>
+<fullyQualifiedTypeName name="com.liferay.portal.kernel.exception.SystemException"/>
+<fullyQualifiedTypeName name="com.liferay.portal.service.UserLocalServiceUtil"/>
+<fullyQualifiedTypeName name="com.liferay.portal.kernel.search.BaseIndexerPostProcessor"/>
+<fullyQualifiedTypeName name="com.liferay.portal.model.User"/>
+<fullyQualifiedTypeName name="com.liferay.portal.kernel.search.Field"/>
 </qualifiedTypeNameHistroy>

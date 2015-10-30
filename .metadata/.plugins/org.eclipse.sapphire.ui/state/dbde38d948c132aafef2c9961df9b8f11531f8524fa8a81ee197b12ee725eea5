@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MasterDetailsEditorPageState>
+    <ContentOutlineState>
+        <Root>
+            <Children>
+                <MasterDetailsNodeState>
+                    <Label>Portal Properties</Label>
+                    <Expanded>true</Expanded>
+                </MasterDetailsNodeState>
+                <MasterDetailsNodeState>
+                    <Label>Indexer Post Processors</Label>
+                    <Expanded>true</Expanded>
+                    <Children>
+                        <MasterDetailsNodeState>
+                            <Label>&lt;index-post-processor&gt;</Label>
+                            <Selected>true</Selected>
+                        </MasterDetailsNodeState>
+                    </Children>
+                </MasterDetailsNodeState>
+            </Children>
+        </Root>
+        <Ratio>0.29981718464351004</Ratio>
+    </ContentOutlineState>
+</MasterDetailsEditorPageState>
