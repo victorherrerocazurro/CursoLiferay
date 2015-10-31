@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN" "http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+
+<hibernate-mapping default-lazy="false" auto-import="false">
+	<import class="com.subastas.model.Subasta" />
+	<class name="com.subastas.model.impl.SubastaImpl" table="Subastas">
+		<cache usage="read-write" />
+		<id name="id" column="id_" type="long">
+			<generator class="assigned" />
+		</id>
+		<property name="groupId" type="com.liferay.portal.dao.orm.hibernate.LongType" />
+		<property name="companyId" type="com.liferay.portal.dao.orm.hibernate.LongType" />
+		<property name="userId" type="com.liferay.portal.dao.orm.hibernate.LongType" />
+		<property name="createDate" type="org.hibernate.type.TimestampType" />
+		<property name="modifiedDate" type="org.hibernate.type.TimestampType" />
+		<property name="producto" type="com.liferay.portal.dao.orm.hibernate.StringType" />
+		<property name="estado" type="com.liferay.portal.dao.orm.hibernate.StringType" />
+		<property name="pujaInicial" type="com.liferay.portal.dao.orm.hibernate.DoubleType" />
+		<property name="pujaMaxima" type="com.liferay.portal.dao.orm.hibernate.DoubleType" />
+		<property name="pujadorId" type="com.liferay.portal.dao.orm.hibernate.LongType" />
+		<property name="pujadorName" type="com.liferay.portal.dao.orm.hibernate.StringType" />
+		<property name="fechaFin" type="org.hibernate.type.TimestampType" />
+	</class>
+</hibernate-mapping>

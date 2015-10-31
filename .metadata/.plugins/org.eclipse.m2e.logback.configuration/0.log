@@ -2193,3 +2193,500 @@
 2015-10-29 11:49:27,291 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
 2015-10-29 11:49:27,291 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2015-10-29 11:49:27,291 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Liferay\19-Ejercicio-Final-Subastas-Spring-MVC\src\test\resources
+2015-10-30 16:18:24,601 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 16:18:24,632 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-10-30 16:18:24,648 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 16:18:24,648 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Liferay\workspace\02-ComunicacionEntreFases\src\test\resources
+2015-10-30 16:18:24,741 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 16:18:24,741 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-10-30 16:18:24,741 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 16:18:24,741 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Liferay\workspace\03-Emisor\src\test\resources
+2015-10-30 16:18:24,835 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 16:18:24,835 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-10-30 16:18:24,835 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 16:18:24,835 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Liferay\workspace\03-Receptor\src\test\resources
+2015-10-30 16:18:24,928 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 16:18:24,928 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-10-30 16:18:24,928 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 16:18:24,928 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Liferay\workspace\04-AlloyUI\src\test\resources
+2015-10-30 16:18:26,629 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 16:18:26,629 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-10-30 16:18:26,629 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 16:18:26,629 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Liferay\workspace\05-PortletSpringMVC\src\test\resources
+2015-10-30 16:18:27,378 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 16:18:27,378 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2015-10-30 16:18:27,409 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 16:18:27,409 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Liferay\workspace\06-PortletJSF2\src\test\resources
+2015-10-30 16:18:27,487 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 16:18:27,487 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-10-30 16:18:27,502 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 16:18:27,502 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Liferay\workspace\07-Hook-ActionStruts-PortalProperties-JSP\src\test\resources
+2015-10-30 16:18:27,565 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 16:18:27,565 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-10-30 16:18:27,580 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 16:18:27,580 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Liferay\workspace\07-Hook-Indexador-Usuarios\src\test\resources
+2015-10-30 16:18:27,799 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 16:18:27,799 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Liferay\workspace\08-Ext-BaseDeDatos\08-Ext-BaseDeDatos-ext\src\main\resources
+2015-10-30 16:18:27,799 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 16:18:27,799 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Liferay\workspace\08-Ext-BaseDeDatos\08-Ext-BaseDeDatos-ext\src\test\resources
+2015-10-30 16:18:27,955 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 16:18:27,955 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Liferay\workspace\08-Ext-BaseDeDatos\08-Ext-BaseDeDatos-ext-web\src\main\resources
+2015-10-30 16:18:27,955 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 16:18:27,955 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Liferay\workspace\08-Ext-BaseDeDatos\08-Ext-BaseDeDatos-ext-web\src\test\resources
+2015-10-30 16:18:29,047 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 16:18:29,047 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-10-30 16:18:29,047 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 16:18:29,047 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Liferay\19-Ejercicio-Final-Subastas-Spring-MVC\src\test\resources
+2015-10-30 16:52:57,960 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 16:52:57,960 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-10-30 16:52:57,975 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 16:52:57,975 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Liferay\workspace\08-Ext-BaseDeDatos\08-Ext-BaseDeDatos-ext-impl\src\test\resources
+2015-10-30 16:52:59,236 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 16:52:59,252 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-10-30 16:52:59,252 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 16:52:59,252 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Liferay\workspace\08-Ext-BaseDeDatos\08-Ext-BaseDeDatos-ext-impl\src\test\resources
+2015-10-30 16:55:33,119 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: com.ejemplo.liferay:08-Ext-BaseDeDatos-ext-lib-portal:1.0.0-SNAPSHOT @ C:\Liferay\workspace\08-Ext-BaseDeDatos\08-Ext-BaseDeDatos-ext-lib-portal\pom.xml.
+2015-10-30 16:55:34,034 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.ejemplo.liferay:08-Ext-BaseDeDatos-ext:1.0.0-SNAPSHOT @ C:\Liferay\workspace\08-Ext-BaseDeDatos\08-Ext-BaseDeDatos-ext\pom.xml.
+2015-10-30 16:55:34,164 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.ejemplo.liferay:08-Ext-BaseDeDatos-ext-web:1.0.0-SNAPSHOT @ C:\Liferay\workspace\08-Ext-BaseDeDatos\08-Ext-BaseDeDatos-ext-web\pom.xml.
+2015-10-30 16:55:34,336 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ejemplo.liferay:08-Ext-BaseDeDatos-ext-impl:1.0.0-SNAPSHOT @ C:\Liferay\workspace\08-Ext-BaseDeDatos\08-Ext-BaseDeDatos-ext-impl\pom.xml.
+2015-10-30 16:55:37,160 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 16:55:37,163 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-10-30 16:55:37,168 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 16:55:37,168 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Liferay\workspace\08-Ext-BaseDeDatos\08-Ext-BaseDeDatos-ext-impl\src\test\resources
+2015-10-30 16:55:37,270 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 16:55:37,271 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Liferay\workspace\08-Ext-BaseDeDatos\08-Ext-BaseDeDatos-ext\src\main\resources
+2015-10-30 16:55:37,272 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 16:55:37,272 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Liferay\workspace\08-Ext-BaseDeDatos\08-Ext-BaseDeDatos-ext\src\test\resources
+2015-10-30 16:55:37,620 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 16:55:37,621 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Liferay\workspace\08-Ext-BaseDeDatos\08-Ext-BaseDeDatos-ext-web\src\main\resources
+2015-10-30 16:55:37,622 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 16:55:37,623 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Liferay\workspace\08-Ext-BaseDeDatos\08-Ext-BaseDeDatos-ext-web\src\test\resources
+2015-10-30 16:55:57,988 [Worker-12] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Liferay\workspace\08-Ext-BaseDeDatos
+2015-10-30 16:55:57,989 [Worker-12] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -PLiferay-v6.2-CE-(Tomcat-7)  -B -U -Dmaven.test.skip=true -DskipTests package liferay:deploy
+2015-10-30 16:58:17,777 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 16:58:17,777 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Liferay\workspace\08-Ext-BaseDeDatos\08-Ext-BaseDeDatos-ext-service\src\main\resources
+2015-10-30 16:58:17,777 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 16:58:17,777 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Liferay\workspace\08-Ext-BaseDeDatos\08-Ext-BaseDeDatos-ext-service\src\test\resources
+2015-10-30 16:58:17,944 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 16:58:17,944 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Liferay\workspace\08-Ext-BaseDeDatos\08-Ext-BaseDeDatos-ext-util-bridges\src\main\resources
+2015-10-30 16:58:17,945 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 16:58:17,946 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Liferay\workspace\08-Ext-BaseDeDatos\08-Ext-BaseDeDatos-ext-util-bridges\src\test\resources
+2015-10-30 16:58:18,014 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 16:58:18,014 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Liferay\workspace\08-Ext-BaseDeDatos\08-Ext-BaseDeDatos-ext-util-java\src\main\resources
+2015-10-30 16:58:18,014 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 16:58:18,014 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Liferay\workspace\08-Ext-BaseDeDatos\08-Ext-BaseDeDatos-ext-util-java\src\test\resources
+2015-10-30 16:58:18,092 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 16:58:18,092 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Liferay\workspace\08-Ext-BaseDeDatos\08-Ext-BaseDeDatos-ext-util-taglib\src\main\resources
+2015-10-30 16:58:18,108 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 16:58:18,108 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Liferay\workspace\08-Ext-BaseDeDatos\08-Ext-BaseDeDatos-ext-util-taglib\src\test\resources
+2015-10-30 16:58:18,233 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 16:58:18,233 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-10-30 16:58:18,233 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 16:58:18,233 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Liferay\workspace\08-Ext-BaseDeDatos\08-Ext-BaseDeDatos-ext-impl\src\test\resources
+2015-10-30 16:58:18,404 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 16:58:18,404 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Liferay\workspace\08-Ext-BaseDeDatos\08-Ext-BaseDeDatos-ext\src\main\resources
+2015-10-30 16:58:18,404 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 16:58:18,404 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Liferay\workspace\08-Ext-BaseDeDatos\08-Ext-BaseDeDatos-ext\src\test\resources
+2015-10-30 16:58:18,545 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 16:58:18,545 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Liferay\workspace\08-Ext-BaseDeDatos\08-Ext-BaseDeDatos-ext-web\src\main\resources
+2015-10-30 16:58:18,545 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 16:58:18,545 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Liferay\workspace\08-Ext-BaseDeDatos\08-Ext-BaseDeDatos-ext-web\src\test\resources
+2015-10-30 17:21:33,433 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/liferay/maven/archetypes/liferay-theme-archetype/6.2.1/liferay-theme-archetype-6.2.1.jar
+2015-10-30 17:21:33,526 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/liferay/maven/archetypes/liferay-theme-archetype/6.2.1/liferay-theme-archetype-6.2.1.jar
+2015-10-30 17:21:33,883 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/liferay/maven/archetypes/liferay-theme-archetype/6.2.1/liferay-theme-archetype-6.2.1.pom
+2015-10-30 17:21:34,000 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/liferay/maven/archetypes/liferay-theme-archetype/6.2.1/liferay-theme-archetype-6.2.1.pom
+2015-10-30 17:21:35,187 [ModalContext] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' C:\Liferay\workspace\09-MiPropioTema\pom.xml
+2015-10-30 17:21:36,931 [ModalContext] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.ejemplo.liferay:09-MiPropioTema:1.0.0-SNAPSHOT @ C:\Liferay\workspace\09-MiPropioTema\pom.xml.
+2015-10-30 17:21:37,895 [ModalContext] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /09-MiPropioTema/src/main/java
+2015-10-30 17:21:37,896 [ModalContext] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /09-MiPropioTema/src/main/resources
+2015-10-30 17:21:37,901 [ModalContext] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /09-MiPropioTema/src/test/java
+2015-10-30 17:21:38,479 [Worker-18] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.ejemplo.liferay:09-MiPropioTema:1.0.0-SNAPSHOT @ C:\Liferay\workspace\09-MiPropioTema\pom.xml.
+2015-10-30 17:21:38,823 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 17:21:38,824 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2015-10-30 17:21:38,831 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 17:21:38,831 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Liferay\workspace\09-MiPropioTema\src\test\resources
+2015-10-30 17:21:41,302 [ModalContext] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 6 sec
+2015-10-30 17:21:41,396 [Worker-8] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.ejemplo.liferay:09-MiPropioTema:1.0.0-SNAPSHOT @ C:\Liferay\workspace\09-MiPropioTema\pom.xml.
+2015-10-30 17:21:41,495 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Failed to retrieve plugin descriptor for com.liferay.maven.plugins:liferay-maven-plugin:${liferay.maven.plugin.version}: Plugin com.liferay.maven.plugins:liferay-maven-plugin:${liferay.maven.plugin.version} or one of its dependencies could not be resolved: Failed to read artifact descriptor for com.liferay.maven.plugins:liferay-maven-plugin:jar:${liferay.maven.plugin.version}
+2015-10-30 17:21:41,500 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Failed to retrieve plugin descriptor for com.liferay.maven.plugins:liferay-maven-plugin:${liferay.maven.plugin.version}: Plugin com.liferay.maven.plugins:liferay-maven-plugin:${liferay.maven.plugin.version} or one of its dependencies could not be resolved: Failed to read artifact descriptor for com.liferay.maven.plugins:liferay-maven-plugin:jar:${liferay.maven.plugin.version}
+2015-10-30 17:21:41,641 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 17:21:41,642 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-10-30 17:21:41,643 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 17:21:41,643 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Liferay\workspace\09-MiPropioTema\src\test\resources
+2015-10-30 17:21:41,679 [ModalContext] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2015-10-30 17:21:41,786 [ModalContext] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.ejemplo.liferay:09-MiPropioTema:1.0.0-SNAPSHOT @ C:\Liferay\workspace\09-MiPropioTema\pom.xml.
+2015-10-30 17:21:42,378 [ModalContext] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /09-MiPropioTema/src/main/java
+2015-10-30 17:21:42,379 [ModalContext] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /09-MiPropioTema/src/main/resources
+2015-10-30 17:21:42,402 [ModalContext] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /09-MiPropioTema/src/test/java
+2015-10-30 17:21:43,077 [ModalContext] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.ejemplo.liferay:09-MiPropioTema:1.0.0-SNAPSHOT @ C:\Liferay\workspace\09-MiPropioTema\pom.xml.
+2015-10-30 17:21:43,364 [ModalContext] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for 09-MiPropioTema
+2015-10-30 17:21:43,453 [ModalContext] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2015-10-30 17:21:44,193 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 17:21:44,194 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2015-10-30 17:21:44,200 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 17:21:44,200 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Liferay\workspace\09-MiPropioTema\src\test\resources
+2015-10-30 17:23:59,394 [Worker-26] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Liferay\workspace\09-MiPropioTema
+2015-10-30 17:23:59,394 [Worker-26] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -PLiferay-v6.2-CE-(Tomcat-7)  -B -U -Dmaven.test.skip=true -DskipTests compile liferay:theme-merge
+2015-10-30 17:25:08,718 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 17:25:08,719 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-10-30 17:25:08,720 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 17:25:08,721 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Liferay\workspace\09-MiPropioTema\src\test\resources
+2015-10-30 17:26:18,594 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Parent theme group ID com.liferay.portal
+2015-10-30 17:26:18,594 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Parent theme artifact ID portal-web
+2015-10-30 17:26:18,594 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Parent theme version 6.2.2
+2015-10-30 17:26:18,594 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Parent theme ID _styled
+2015-10-30 17:26:18,695 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying html/themes/_unstyled/templates to C:\Liferay\workspace\09-MiPropioTema\target\m2e-liferay\theme-resources\templates
+2015-10-30 17:26:18,813 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying html/themes/_unstyled/css to C:\Liferay\workspace\09-MiPropioTema\target\m2e-liferay\theme-resources\css
+2015-10-30 17:26:19,831 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying html/themes/_unstyled/images to C:\Liferay\workspace\09-MiPropioTema\target\m2e-liferay\theme-resources\images
+2015-10-30 17:26:19,834 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying html/themes/_unstyled/js to C:\Liferay\workspace\09-MiPropioTema\target\m2e-liferay\theme-resources\js
+2015-10-30 17:26:19,848 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying html/themes/_styled/css to C:\Liferay\workspace\09-MiPropioTema\target\m2e-liferay\theme-resources\css
+2015-10-30 17:26:19,851 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying html/themes/_styled/images to C:\Liferay\workspace\09-MiPropioTema\target\m2e-liferay\theme-resources\images
+2015-10-30 17:26:19,853 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying C:\Liferay\workspace\09-MiPropioTema\src\main\webapp\templates to C:\Liferay\workspace\09-MiPropioTema\target\m2e-liferay\theme-resources\templates
+2015-10-30 17:26:20,035 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 17:26:20,035 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-10-30 17:26:20,037 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 17:26:20,037 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Liferay\workspace\09-MiPropioTema\src\test\resources
+2015-10-30 17:26:31,717 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Parent theme group ID com.liferay.portal
+2015-10-30 17:26:31,717 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Parent theme artifact ID portal-web
+2015-10-30 17:26:31,717 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Parent theme version 6.2.2
+2015-10-30 17:26:31,717 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Parent theme ID _styled
+2015-10-30 17:26:31,738 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying html/themes/_unstyled/templates to C:\Liferay\workspace\09-MiPropioTema\target\m2e-liferay\theme-resources\templates
+2015-10-30 17:26:31,845 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying html/themes/_unstyled/css to C:\Liferay\workspace\09-MiPropioTema\target\m2e-liferay\theme-resources\css
+2015-10-30 17:26:32,575 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying html/themes/_unstyled/images to C:\Liferay\workspace\09-MiPropioTema\target\m2e-liferay\theme-resources\images
+2015-10-30 17:26:32,578 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying html/themes/_unstyled/js to C:\Liferay\workspace\09-MiPropioTema\target\m2e-liferay\theme-resources\js
+2015-10-30 17:26:32,592 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying html/themes/_styled/css to C:\Liferay\workspace\09-MiPropioTema\target\m2e-liferay\theme-resources\css
+2015-10-30 17:26:32,595 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying html/themes/_styled/images to C:\Liferay\workspace\09-MiPropioTema\target\m2e-liferay\theme-resources\images
+2015-10-30 17:26:32,597 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying C:\Liferay\workspace\09-MiPropioTema\src\main\webapp\templates to C:\Liferay\workspace\09-MiPropioTema\target\m2e-liferay\theme-resources\templates
+2015-10-30 17:26:32,755 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 17:26:32,755 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-10-30 17:26:32,756 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 17:26:32,756 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Liferay\workspace\09-MiPropioTema\src\test\resources
+2015-10-30 17:33:12,284 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Parent theme group ID com.liferay.portal
+2015-10-30 17:33:12,284 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Parent theme artifact ID portal-web
+2015-10-30 17:33:12,284 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Parent theme version 6.2.2
+2015-10-30 17:33:12,284 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Parent theme ID _styled
+2015-10-30 17:33:12,307 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying html/themes/_unstyled/templates to C:\Liferay\workspace\09-MiPropioTema\target\m2e-liferay\theme-resources\templates
+2015-10-30 17:33:12,455 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying html/themes/_unstyled/css to C:\Liferay\workspace\09-MiPropioTema\target\m2e-liferay\theme-resources\css
+2015-10-30 17:33:13,298 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying html/themes/_unstyled/images to C:\Liferay\workspace\09-MiPropioTema\target\m2e-liferay\theme-resources\images
+2015-10-30 17:33:13,301 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying html/themes/_unstyled/js to C:\Liferay\workspace\09-MiPropioTema\target\m2e-liferay\theme-resources\js
+2015-10-30 17:33:13,319 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying html/themes/_styled/css to C:\Liferay\workspace\09-MiPropioTema\target\m2e-liferay\theme-resources\css
+2015-10-30 17:33:13,322 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying html/themes/_styled/images to C:\Liferay\workspace\09-MiPropioTema\target\m2e-liferay\theme-resources\images
+2015-10-30 17:33:13,324 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying C:\Liferay\workspace\09-MiPropioTema\src\main\webapp\templates to C:\Liferay\workspace\09-MiPropioTema\target\m2e-liferay\theme-resources\templates
+2015-10-30 17:33:13,491 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 17:33:13,492 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-10-30 17:33:13,493 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 17:33:13,493 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Liferay\workspace\09-MiPropioTema\src\test\resources
+2015-10-30 17:34:18,663 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Parent theme group ID com.liferay.portal
+2015-10-30 17:34:18,663 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Parent theme artifact ID portal-web
+2015-10-30 17:34:18,664 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Parent theme version 6.2.2
+2015-10-30 17:34:18,665 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Parent theme ID _styled
+2015-10-30 17:34:18,689 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying html/themes/_unstyled/templates to C:\Liferay\workspace\09-MiPropioTema\target\m2e-liferay\theme-resources\templates
+2015-10-30 17:34:18,825 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying html/themes/_unstyled/css to C:\Liferay\workspace\09-MiPropioTema\target\m2e-liferay\theme-resources\css
+2015-10-30 17:34:19,651 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying html/themes/_unstyled/images to C:\Liferay\workspace\09-MiPropioTema\target\m2e-liferay\theme-resources\images
+2015-10-30 17:34:19,655 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying html/themes/_unstyled/js to C:\Liferay\workspace\09-MiPropioTema\target\m2e-liferay\theme-resources\js
+2015-10-30 17:34:19,673 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying html/themes/_styled/css to C:\Liferay\workspace\09-MiPropioTema\target\m2e-liferay\theme-resources\css
+2015-10-30 17:34:19,676 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying html/themes/_styled/images to C:\Liferay\workspace\09-MiPropioTema\target\m2e-liferay\theme-resources\images
+2015-10-30 17:34:19,678 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying C:\Liferay\workspace\09-MiPropioTema\src\main\webapp\templates to C:\Liferay\workspace\09-MiPropioTema\target\m2e-liferay\theme-resources\templates
+2015-10-30 17:34:19,933 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 17:34:19,933 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-10-30 17:34:19,936 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 17:34:19,936 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Liferay\workspace\09-MiPropioTema\src\test\resources
+2015-10-30 17:34:24,421 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Parent theme group ID com.liferay.portal
+2015-10-30 17:34:24,421 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Parent theme artifact ID portal-web
+2015-10-30 17:34:24,422 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Parent theme version 6.2.2
+2015-10-30 17:34:24,422 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Parent theme ID _styled
+2015-10-30 17:34:24,449 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying html/themes/_unstyled/templates to C:\Liferay\workspace\09-MiPropioTema\target\m2e-liferay\theme-resources\templates
+2015-10-30 17:34:24,591 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying html/themes/_unstyled/css to C:\Liferay\workspace\09-MiPropioTema\target\m2e-liferay\theme-resources\css
+2015-10-30 17:34:25,417 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying html/themes/_unstyled/images to C:\Liferay\workspace\09-MiPropioTema\target\m2e-liferay\theme-resources\images
+2015-10-30 17:34:25,421 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying html/themes/_unstyled/js to C:\Liferay\workspace\09-MiPropioTema\target\m2e-liferay\theme-resources\js
+2015-10-30 17:34:25,438 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying html/themes/_styled/css to C:\Liferay\workspace\09-MiPropioTema\target\m2e-liferay\theme-resources\css
+2015-10-30 17:34:25,441 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying html/themes/_styled/images to C:\Liferay\workspace\09-MiPropioTema\target\m2e-liferay\theme-resources\images
+2015-10-30 17:34:25,444 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying C:\Liferay\workspace\09-MiPropioTema\src\main\webapp\templates to C:\Liferay\workspace\09-MiPropioTema\target\m2e-liferay\theme-resources\templates
+2015-10-30 17:34:25,601 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 17:34:25,601 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-10-30 17:34:25,602 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 17:34:25,603 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Liferay\workspace\09-MiPropioTema\src\test\resources
+2015-10-30 17:40:10,564 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Parent theme group ID com.liferay.portal
+2015-10-30 17:40:10,564 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Parent theme artifact ID portal-web
+2015-10-30 17:40:10,564 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Parent theme version 6.2.2
+2015-10-30 17:40:10,564 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Parent theme ID _styled
+2015-10-30 17:40:10,587 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying html/themes/_unstyled/templates to C:\Liferay\workspace\09-MiPropioTema\target\m2e-liferay\theme-resources\templates
+2015-10-30 17:40:10,724 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying html/themes/_unstyled/css to C:\Liferay\workspace\09-MiPropioTema\target\m2e-liferay\theme-resources\css
+2015-10-30 17:40:11,597 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying html/themes/_unstyled/images to C:\Liferay\workspace\09-MiPropioTema\target\m2e-liferay\theme-resources\images
+2015-10-30 17:40:11,600 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying html/themes/_unstyled/js to C:\Liferay\workspace\09-MiPropioTema\target\m2e-liferay\theme-resources\js
+2015-10-30 17:40:11,618 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying html/themes/_styled/css to C:\Liferay\workspace\09-MiPropioTema\target\m2e-liferay\theme-resources\css
+2015-10-30 17:40:11,622 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying html/themes/_styled/images to C:\Liferay\workspace\09-MiPropioTema\target\m2e-liferay\theme-resources\images
+2015-10-30 17:40:11,624 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying C:\Liferay\workspace\09-MiPropioTema\src\main\webapp\js to C:\Liferay\workspace\09-MiPropioTema\target\m2e-liferay\theme-resources\js
+2015-10-30 17:40:11,627 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying C:\Liferay\workspace\09-MiPropioTema\src\main\webapp\templates to C:\Liferay\workspace\09-MiPropioTema\target\m2e-liferay\theme-resources\templates
+2015-10-30 17:40:11,932 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 17:40:11,932 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-10-30 17:40:11,933 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 17:40:11,934 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Liferay\workspace\09-MiPropioTema\src\test\resources
+2015-10-30 17:40:15,027 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Parent theme group ID com.liferay.portal
+2015-10-30 17:40:15,027 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Parent theme artifact ID portal-web
+2015-10-30 17:40:15,027 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Parent theme version 6.2.2
+2015-10-30 17:40:15,027 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Parent theme ID _styled
+2015-10-30 17:40:15,054 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying html/themes/_unstyled/templates to C:\Liferay\workspace\09-MiPropioTema\target\m2e-liferay\theme-resources\templates
+2015-10-30 17:40:15,194 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying html/themes/_unstyled/css to C:\Liferay\workspace\09-MiPropioTema\target\m2e-liferay\theme-resources\css
+2015-10-30 17:40:16,066 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying html/themes/_unstyled/images to C:\Liferay\workspace\09-MiPropioTema\target\m2e-liferay\theme-resources\images
+2015-10-30 17:40:16,069 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying html/themes/_unstyled/js to C:\Liferay\workspace\09-MiPropioTema\target\m2e-liferay\theme-resources\js
+2015-10-30 17:40:16,087 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying html/themes/_styled/css to C:\Liferay\workspace\09-MiPropioTema\target\m2e-liferay\theme-resources\css
+2015-10-30 17:40:16,090 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying html/themes/_styled/images to C:\Liferay\workspace\09-MiPropioTema\target\m2e-liferay\theme-resources\images
+2015-10-30 17:40:16,092 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying C:\Liferay\workspace\09-MiPropioTema\src\main\webapp\css to C:\Liferay\workspace\09-MiPropioTema\target\m2e-liferay\theme-resources\css
+2015-10-30 17:40:16,094 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying C:\Liferay\workspace\09-MiPropioTema\src\main\webapp\js to C:\Liferay\workspace\09-MiPropioTema\target\m2e-liferay\theme-resources\js
+2015-10-30 17:40:16,097 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying C:\Liferay\workspace\09-MiPropioTema\src\main\webapp\templates to C:\Liferay\workspace\09-MiPropioTema\target\m2e-liferay\theme-resources\templates
+2015-10-30 17:40:16,262 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 17:40:16,263 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-10-30 17:40:16,264 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 17:40:16,264 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Liferay\workspace\09-MiPropioTema\src\test\resources
+2015-10-30 17:40:58,995 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Parent theme group ID com.liferay.portal
+2015-10-30 17:40:58,995 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Parent theme artifact ID portal-web
+2015-10-30 17:40:58,995 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Parent theme version 6.2.2
+2015-10-30 17:40:58,995 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Parent theme ID _styled
+2015-10-30 17:40:59,018 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying html/themes/_unstyled/templates to C:\Liferay\workspace\09-MiPropioTema\target\m2e-liferay\theme-resources\templates
+2015-10-30 17:40:59,184 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying html/themes/_unstyled/css to C:\Liferay\workspace\09-MiPropioTema\target\m2e-liferay\theme-resources\css
+2015-10-30 17:41:00,128 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying html/themes/_unstyled/images to C:\Liferay\workspace\09-MiPropioTema\target\m2e-liferay\theme-resources\images
+2015-10-30 17:41:00,131 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying html/themes/_unstyled/js to C:\Liferay\workspace\09-MiPropioTema\target\m2e-liferay\theme-resources\js
+2015-10-30 17:41:00,148 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying html/themes/_styled/css to C:\Liferay\workspace\09-MiPropioTema\target\m2e-liferay\theme-resources\css
+2015-10-30 17:41:00,152 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying html/themes/_styled/images to C:\Liferay\workspace\09-MiPropioTema\target\m2e-liferay\theme-resources\images
+2015-10-30 17:41:00,154 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying C:\Liferay\workspace\09-MiPropioTema\src\main\webapp\css to C:\Liferay\workspace\09-MiPropioTema\target\m2e-liferay\theme-resources\css
+2015-10-30 17:41:00,157 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying C:\Liferay\workspace\09-MiPropioTema\src\main\webapp\js to C:\Liferay\workspace\09-MiPropioTema\target\m2e-liferay\theme-resources\js
+2015-10-30 17:41:00,159 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying C:\Liferay\workspace\09-MiPropioTema\src\main\webapp\templates to C:\Liferay\workspace\09-MiPropioTema\target\m2e-liferay\theme-resources\templates
+2015-10-30 17:41:00,329 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 17:41:00,329 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-10-30 17:41:00,330 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 17:41:00,330 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Liferay\workspace\09-MiPropioTema\src\test\resources
+2015-10-30 17:41:17,932 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 17:41:17,933 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-10-30 17:41:17,935 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 17:41:17,936 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-10-30 17:42:37,786 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Parent theme group ID com.liferay.portal
+2015-10-30 17:42:37,786 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Parent theme artifact ID portal-web
+2015-10-30 17:42:37,786 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Parent theme version 6.2.2
+2015-10-30 17:42:37,787 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Parent theme ID _styled
+2015-10-30 17:42:37,810 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying html/themes/_unstyled/templates to C:\Liferay\workspace\09-MiPropioTema\target\m2e-liferay\theme-resources\templates
+2015-10-30 17:42:37,962 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying html/themes/_unstyled/css to C:\Liferay\workspace\09-MiPropioTema\target\m2e-liferay\theme-resources\css
+2015-10-30 17:42:38,710 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying html/themes/_unstyled/images to C:\Liferay\workspace\09-MiPropioTema\target\m2e-liferay\theme-resources\images
+2015-10-30 17:42:38,714 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying html/themes/_unstyled/js to C:\Liferay\workspace\09-MiPropioTema\target\m2e-liferay\theme-resources\js
+2015-10-30 17:42:38,729 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying html/themes/_styled/css to C:\Liferay\workspace\09-MiPropioTema\target\m2e-liferay\theme-resources\css
+2015-10-30 17:42:38,732 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying html/themes/_styled/images to C:\Liferay\workspace\09-MiPropioTema\target\m2e-liferay\theme-resources\images
+2015-10-30 17:42:38,735 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying C:\Liferay\workspace\09-MiPropioTema\src\main\webapp\css to C:\Liferay\workspace\09-MiPropioTema\target\m2e-liferay\theme-resources\css
+2015-10-30 17:42:38,739 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying C:\Liferay\workspace\09-MiPropioTema\src\main\webapp\js to C:\Liferay\workspace\09-MiPropioTema\target\m2e-liferay\theme-resources\js
+2015-10-30 17:42:38,741 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying C:\Liferay\workspace\09-MiPropioTema\src\main\webapp\templates to C:\Liferay\workspace\09-MiPropioTema\target\m2e-liferay\theme-resources\templates
+2015-10-30 17:42:38,909 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 17:42:38,909 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-10-30 17:42:38,910 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 17:42:38,911 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Liferay\workspace\09-MiPropioTema\src\test\resources
+2015-10-30 17:45:21,932 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Parent theme group ID com.liferay.portal
+2015-10-30 17:45:21,932 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Parent theme artifact ID portal-web
+2015-10-30 17:45:21,932 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Parent theme version 6.2.2
+2015-10-30 17:45:21,933 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Parent theme ID _styled
+2015-10-30 17:45:21,953 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying html/themes/_unstyled/templates to C:\Liferay\workspace\09-MiPropioTema\target\m2e-liferay\theme-resources\templates
+2015-10-30 17:45:22,074 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying html/themes/_unstyled/css to C:\Liferay\workspace\09-MiPropioTema\target\m2e-liferay\theme-resources\css
+2015-10-30 17:45:22,815 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying html/themes/_unstyled/images to C:\Liferay\workspace\09-MiPropioTema\target\m2e-liferay\theme-resources\images
+2015-10-30 17:45:22,819 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying html/themes/_unstyled/js to C:\Liferay\workspace\09-MiPropioTema\target\m2e-liferay\theme-resources\js
+2015-10-30 17:45:22,834 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying html/themes/_styled/css to C:\Liferay\workspace\09-MiPropioTema\target\m2e-liferay\theme-resources\css
+2015-10-30 17:45:22,837 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying html/themes/_styled/images to C:\Liferay\workspace\09-MiPropioTema\target\m2e-liferay\theme-resources\images
+2015-10-30 17:45:22,840 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying C:\Liferay\workspace\09-MiPropioTema\src\main\webapp\css to C:\Liferay\workspace\09-MiPropioTema\target\m2e-liferay\theme-resources\css
+2015-10-30 17:45:22,843 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying C:\Liferay\workspace\09-MiPropioTema\src\main\webapp\js to C:\Liferay\workspace\09-MiPropioTema\target\m2e-liferay\theme-resources\js
+2015-10-30 17:45:22,846 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying C:\Liferay\workspace\09-MiPropioTema\src\main\webapp\templates to C:\Liferay\workspace\09-MiPropioTema\target\m2e-liferay\theme-resources\templates
+2015-10-30 17:45:23,012 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 17:45:23,013 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-10-30 17:45:23,014 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 17:45:23,014 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Liferay\workspace\09-MiPropioTema\src\test\resources
+2015-10-30 17:48:13,842 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Parent theme group ID com.liferay.portal
+2015-10-30 17:48:13,842 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Parent theme artifact ID portal-web
+2015-10-30 17:48:13,842 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Parent theme version 6.2.2
+2015-10-30 17:48:13,843 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Parent theme ID _styled
+2015-10-30 17:48:13,864 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying html/themes/_unstyled/templates to C:\Liferay\workspace\09-MiPropioTema\target\m2e-liferay\theme-resources\templates
+2015-10-30 17:48:14,012 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying html/themes/_unstyled/css to C:\Liferay\workspace\09-MiPropioTema\target\m2e-liferay\theme-resources\css
+2015-10-30 17:48:14,766 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying html/themes/_unstyled/images to C:\Liferay\workspace\09-MiPropioTema\target\m2e-liferay\theme-resources\images
+2015-10-30 17:48:14,769 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying html/themes/_unstyled/js to C:\Liferay\workspace\09-MiPropioTema\target\m2e-liferay\theme-resources\js
+2015-10-30 17:48:14,785 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying html/themes/_styled/css to C:\Liferay\workspace\09-MiPropioTema\target\m2e-liferay\theme-resources\css
+2015-10-30 17:48:14,788 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying html/themes/_styled/images to C:\Liferay\workspace\09-MiPropioTema\target\m2e-liferay\theme-resources\images
+2015-10-30 17:48:14,790 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying C:\Liferay\workspace\09-MiPropioTema\src\main\webapp\css to C:\Liferay\workspace\09-MiPropioTema\target\m2e-liferay\theme-resources\css
+2015-10-30 17:48:14,794 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying C:\Liferay\workspace\09-MiPropioTema\src\main\webapp\js to C:\Liferay\workspace\09-MiPropioTema\target\m2e-liferay\theme-resources\js
+2015-10-30 17:48:14,796 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying C:\Liferay\workspace\09-MiPropioTema\src\main\webapp\templates to C:\Liferay\workspace\09-MiPropioTema\target\m2e-liferay\theme-resources\templates
+2015-10-30 17:48:14,961 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 17:48:14,961 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-10-30 17:48:14,963 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 17:48:14,963 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Liferay\workspace\09-MiPropioTema\src\test\resources
+2015-10-30 17:48:49,162 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Parent theme group ID com.liferay.portal
+2015-10-30 17:48:49,162 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Parent theme artifact ID portal-web
+2015-10-30 17:48:49,162 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Parent theme version 6.2.2
+2015-10-30 17:48:49,162 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Parent theme ID _styled
+2015-10-30 17:48:49,183 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying html/themes/_unstyled/templates to C:\Liferay\workspace\09-MiPropioTema\target\m2e-liferay\theme-resources\templates
+2015-10-30 17:48:49,303 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying html/themes/_unstyled/css to C:\Liferay\workspace\09-MiPropioTema\target\m2e-liferay\theme-resources\css
+2015-10-30 17:48:50,058 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying html/themes/_unstyled/images to C:\Liferay\workspace\09-MiPropioTema\target\m2e-liferay\theme-resources\images
+2015-10-30 17:48:50,061 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying html/themes/_unstyled/js to C:\Liferay\workspace\09-MiPropioTema\target\m2e-liferay\theme-resources\js
+2015-10-30 17:48:50,077 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying html/themes/_styled/css to C:\Liferay\workspace\09-MiPropioTema\target\m2e-liferay\theme-resources\css
+2015-10-30 17:48:50,080 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying html/themes/_styled/images to C:\Liferay\workspace\09-MiPropioTema\target\m2e-liferay\theme-resources\images
+2015-10-30 17:48:50,083 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying C:\Liferay\workspace\09-MiPropioTema\src\main\webapp\css to C:\Liferay\workspace\09-MiPropioTema\target\m2e-liferay\theme-resources\css
+2015-10-30 17:48:50,087 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying C:\Liferay\workspace\09-MiPropioTema\src\main\webapp\js to C:\Liferay\workspace\09-MiPropioTema\target\m2e-liferay\theme-resources\js
+2015-10-30 17:48:50,089 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying C:\Liferay\workspace\09-MiPropioTema\src\main\webapp\templates to C:\Liferay\workspace\09-MiPropioTema\target\m2e-liferay\theme-resources\templates
+2015-10-30 17:48:50,249 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 17:48:50,249 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-10-30 17:48:50,250 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 17:48:50,250 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Liferay\workspace\09-MiPropioTema\src\test\resources
+2015-10-30 17:50:42,168 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Parent theme group ID com.liferay.portal
+2015-10-30 17:50:42,169 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Parent theme artifact ID portal-web
+2015-10-30 17:50:42,169 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Parent theme version 6.2.2
+2015-10-30 17:50:42,169 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Parent theme ID _styled
+2015-10-30 17:50:42,190 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying html/themes/_unstyled/templates to C:\Liferay\workspace\09-MiPropioTema\target\m2e-liferay\theme-resources\templates
+2015-10-30 17:50:42,315 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying html/themes/_unstyled/css to C:\Liferay\workspace\09-MiPropioTema\target\m2e-liferay\theme-resources\css
+2015-10-30 17:50:43,058 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying html/themes/_unstyled/images to C:\Liferay\workspace\09-MiPropioTema\target\m2e-liferay\theme-resources\images
+2015-10-30 17:50:43,062 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying html/themes/_unstyled/js to C:\Liferay\workspace\09-MiPropioTema\target\m2e-liferay\theme-resources\js
+2015-10-30 17:50:43,077 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying html/themes/_styled/css to C:\Liferay\workspace\09-MiPropioTema\target\m2e-liferay\theme-resources\css
+2015-10-30 17:50:43,080 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying html/themes/_styled/images to C:\Liferay\workspace\09-MiPropioTema\target\m2e-liferay\theme-resources\images
+2015-10-30 17:50:43,083 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying C:\Liferay\workspace\09-MiPropioTema\src\main\webapp\css to C:\Liferay\workspace\09-MiPropioTema\target\m2e-liferay\theme-resources\css
+2015-10-30 17:50:43,086 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying C:\Liferay\workspace\09-MiPropioTema\src\main\webapp\js to C:\Liferay\workspace\09-MiPropioTema\target\m2e-liferay\theme-resources\js
+2015-10-30 17:50:43,089 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying C:\Liferay\workspace\09-MiPropioTema\src\main\webapp\templates to C:\Liferay\workspace\09-MiPropioTema\target\m2e-liferay\theme-resources\templates
+2015-10-30 17:50:43,252 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 17:50:43,252 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-10-30 17:50:43,253 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 17:50:43,253 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Liferay\workspace\09-MiPropioTema\src\test\resources
+2015-10-30 17:50:59,916 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Parent theme group ID com.liferay.portal
+2015-10-30 17:50:59,916 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Parent theme artifact ID portal-web
+2015-10-30 17:50:59,916 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Parent theme version 6.2.2
+2015-10-30 17:50:59,916 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Parent theme ID _styled
+2015-10-30 17:50:59,939 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying html/themes/_unstyled/templates to C:\Liferay\workspace\09-MiPropioTema\target\m2e-liferay\theme-resources\templates
+2015-10-30 17:51:00,061 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying html/themes/_unstyled/css to C:\Liferay\workspace\09-MiPropioTema\target\m2e-liferay\theme-resources\css
+2015-10-30 17:51:00,805 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying html/themes/_unstyled/images to C:\Liferay\workspace\09-MiPropioTema\target\m2e-liferay\theme-resources\images
+2015-10-30 17:51:00,809 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying html/themes/_unstyled/js to C:\Liferay\workspace\09-MiPropioTema\target\m2e-liferay\theme-resources\js
+2015-10-30 17:51:00,824 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying html/themes/_styled/css to C:\Liferay\workspace\09-MiPropioTema\target\m2e-liferay\theme-resources\css
+2015-10-30 17:51:00,827 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying html/themes/_styled/images to C:\Liferay\workspace\09-MiPropioTema\target\m2e-liferay\theme-resources\images
+2015-10-30 17:51:00,830 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying C:\Liferay\workspace\09-MiPropioTema\src\main\webapp\css to C:\Liferay\workspace\09-MiPropioTema\target\m2e-liferay\theme-resources\css
+2015-10-30 17:51:00,833 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying C:\Liferay\workspace\09-MiPropioTema\src\main\webapp\js to C:\Liferay\workspace\09-MiPropioTema\target\m2e-liferay\theme-resources\js
+2015-10-30 17:51:00,836 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying C:\Liferay\workspace\09-MiPropioTema\src\main\webapp\templates to C:\Liferay\workspace\09-MiPropioTema\target\m2e-liferay\theme-resources\templates
+2015-10-30 17:51:01,001 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 17:51:01,002 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-10-30 17:51:01,003 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 17:51:01,003 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Liferay\workspace\09-MiPropioTema\src\test\resources
+2015-10-30 17:51:25,979 [Worker-31] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Liferay\workspace\09-MiPropioTema
+2015-10-30 17:51:25,980 [Worker-31] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -PLiferay-v6.2-CE-(Tomcat-7)  -B -U -Dmaven.test.skip=true -DskipTests package liferay:deploy
+2015-10-30 17:52:30,947 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 17:52:30,947 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-10-30 17:52:30,949 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 17:52:30,949 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Liferay\workspace\09-MiPropioTema\src\test\resources
+2015-10-30 18:03:12,323 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Parent theme group ID com.liferay.portal
+2015-10-30 18:03:12,323 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Parent theme artifact ID portal-web
+2015-10-30 18:03:12,323 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Parent theme version 6.2.2
+2015-10-30 18:03:12,323 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Parent theme ID _styled
+2015-10-30 18:03:12,344 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying html/themes/_unstyled/templates to C:\Liferay\workspace\09-MiPropioTema\target\m2e-liferay\theme-resources\templates
+2015-10-30 18:03:12,466 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying html/themes/_unstyled/css to C:\Liferay\workspace\09-MiPropioTema\target\m2e-liferay\theme-resources\css
+2015-10-30 18:03:13,223 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying html/themes/_unstyled/images to C:\Liferay\workspace\09-MiPropioTema\target\m2e-liferay\theme-resources\images
+2015-10-30 18:03:13,226 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying html/themes/_unstyled/js to C:\Liferay\workspace\09-MiPropioTema\target\m2e-liferay\theme-resources\js
+2015-10-30 18:03:13,241 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying html/themes/_styled/css to C:\Liferay\workspace\09-MiPropioTema\target\m2e-liferay\theme-resources\css
+2015-10-30 18:03:13,244 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying html/themes/_styled/images to C:\Liferay\workspace\09-MiPropioTema\target\m2e-liferay\theme-resources\images
+2015-10-30 18:03:13,247 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying C:\Liferay\workspace\09-MiPropioTema\src\main\webapp\css to C:\Liferay\workspace\09-MiPropioTema\target\m2e-liferay\theme-resources\css
+2015-10-30 18:03:13,250 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying C:\Liferay\workspace\09-MiPropioTema\src\main\webapp\js to C:\Liferay\workspace\09-MiPropioTema\target\m2e-liferay\theme-resources\js
+2015-10-30 18:03:13,253 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying C:\Liferay\workspace\09-MiPropioTema\src\main\webapp\templates to C:\Liferay\workspace\09-MiPropioTema\target\m2e-liferay\theme-resources\templates
+2015-10-30 18:03:13,419 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 18:03:13,420 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-10-30 18:03:13,421 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 18:03:13,421 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Liferay\workspace\09-MiPropioTema\src\test\resources
+2015-10-30 18:03:20,534 [Worker-2] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Liferay\workspace\09-MiPropioTema
+2015-10-30 18:03:20,534 [Worker-2] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -PLiferay-v6.2-CE-(Tomcat-7)  -B -U -Dmaven.test.skip=true -DskipTests package liferay:deploy
+2015-10-30 18:03:32,926 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 18:03:32,926 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-10-30 18:03:32,927 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 18:03:32,928 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Liferay\workspace\09-MiPropioTema\src\test\resources
+2015-10-30 18:04:57,511 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Parent theme group ID com.liferay.portal
+2015-10-30 18:04:57,511 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Parent theme artifact ID portal-web
+2015-10-30 18:04:57,511 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Parent theme version 6.2.2
+2015-10-30 18:04:57,511 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Parent theme ID _styled
+2015-10-30 18:04:57,532 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying html/themes/_unstyled/templates to C:\Liferay\workspace\09-MiPropioTema\target\m2e-liferay\theme-resources\templates
+2015-10-30 18:04:57,653 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying html/themes/_unstyled/css to C:\Liferay\workspace\09-MiPropioTema\target\m2e-liferay\theme-resources\css
+2015-10-30 18:04:58,389 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying html/themes/_unstyled/images to C:\Liferay\workspace\09-MiPropioTema\target\m2e-liferay\theme-resources\images
+2015-10-30 18:04:58,392 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying html/themes/_unstyled/js to C:\Liferay\workspace\09-MiPropioTema\target\m2e-liferay\theme-resources\js
+2015-10-30 18:04:58,409 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying html/themes/_styled/css to C:\Liferay\workspace\09-MiPropioTema\target\m2e-liferay\theme-resources\css
+2015-10-30 18:04:58,412 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying html/themes/_styled/images to C:\Liferay\workspace\09-MiPropioTema\target\m2e-liferay\theme-resources\images
+2015-10-30 18:04:58,414 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying C:\Liferay\workspace\09-MiPropioTema\src\main\webapp\css to C:\Liferay\workspace\09-MiPropioTema\target\m2e-liferay\theme-resources\css
+2015-10-30 18:04:58,418 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying C:\Liferay\workspace\09-MiPropioTema\src\main\webapp\js to C:\Liferay\workspace\09-MiPropioTema\target\m2e-liferay\theme-resources\js
+2015-10-30 18:04:58,420 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying C:\Liferay\workspace\09-MiPropioTema\src\main\webapp\templates to C:\Liferay\workspace\09-MiPropioTema\target\m2e-liferay\theme-resources\templates
+2015-10-30 18:04:58,587 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 18:04:58,588 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-10-30 18:04:58,589 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 18:04:58,589 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Liferay\workspace\09-MiPropioTema\src\test\resources
+2015-10-30 18:05:09,536 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Parent theme group ID com.liferay.portal
+2015-10-30 18:05:09,536 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Parent theme artifact ID portal-web
+2015-10-30 18:05:09,536 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Parent theme version 6.2.2
+2015-10-30 18:05:09,536 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Parent theme ID _styled
+2015-10-30 18:05:09,557 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying html/themes/_unstyled/templates to C:\Liferay\workspace\09-MiPropioTema\target\m2e-liferay\theme-resources\templates
+2015-10-30 18:05:09,677 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying html/themes/_unstyled/css to C:\Liferay\workspace\09-MiPropioTema\target\m2e-liferay\theme-resources\css
+2015-10-30 18:05:10,444 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying html/themes/_unstyled/images to C:\Liferay\workspace\09-MiPropioTema\target\m2e-liferay\theme-resources\images
+2015-10-30 18:05:10,448 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying html/themes/_unstyled/js to C:\Liferay\workspace\09-MiPropioTema\target\m2e-liferay\theme-resources\js
+2015-10-30 18:05:10,463 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying html/themes/_styled/css to C:\Liferay\workspace\09-MiPropioTema\target\m2e-liferay\theme-resources\css
+2015-10-30 18:05:10,466 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying html/themes/_styled/images to C:\Liferay\workspace\09-MiPropioTema\target\m2e-liferay\theme-resources\images
+2015-10-30 18:05:10,469 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying C:\Liferay\workspace\09-MiPropioTema\src\main\webapp\css to C:\Liferay\workspace\09-MiPropioTema\target\m2e-liferay\theme-resources\css
+2015-10-30 18:05:10,472 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying C:\Liferay\workspace\09-MiPropioTema\src\main\webapp\js to C:\Liferay\workspace\09-MiPropioTema\target\m2e-liferay\theme-resources\js
+2015-10-30 18:05:10,475 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying C:\Liferay\workspace\09-MiPropioTema\src\main\webapp\templates to C:\Liferay\workspace\09-MiPropioTema\target\m2e-liferay\theme-resources\templates
+2015-10-30 18:05:10,634 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 18:05:10,634 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-10-30 18:05:10,635 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 18:05:10,635 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Liferay\workspace\09-MiPropioTema\src\test\resources
+2015-10-30 18:05:14,082 [Worker-33] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Liferay\workspace\09-MiPropioTema
+2015-10-30 18:05:14,082 [Worker-33] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -PLiferay-v6.2-CE-(Tomcat-7)  -B -U -Dmaven.test.skip=true -DskipTests package liferay:deploy
+2015-10-30 18:05:26,153 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 18:05:26,154 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-10-30 18:05:26,155 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 18:05:26,155 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Liferay\workspace\09-MiPropioTema\src\test\resources
+2015-10-30 18:06:43,546 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Parent theme group ID com.liferay.portal
+2015-10-30 18:06:43,546 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Parent theme artifact ID portal-web
+2015-10-30 18:06:43,546 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Parent theme version 6.2.2
+2015-10-30 18:06:43,546 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Parent theme ID _styled
+2015-10-30 18:06:43,568 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying html/themes/_unstyled/templates to C:\Liferay\workspace\09-MiPropioTema\target\m2e-liferay\theme-resources\templates
+2015-10-30 18:06:43,688 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying html/themes/_unstyled/css to C:\Liferay\workspace\09-MiPropioTema\target\m2e-liferay\theme-resources\css
+2015-10-30 18:06:44,435 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying html/themes/_unstyled/images to C:\Liferay\workspace\09-MiPropioTema\target\m2e-liferay\theme-resources\images
+2015-10-30 18:06:44,438 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying html/themes/_unstyled/js to C:\Liferay\workspace\09-MiPropioTema\target\m2e-liferay\theme-resources\js
+2015-10-30 18:06:44,454 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying html/themes/_styled/css to C:\Liferay\workspace\09-MiPropioTema\target\m2e-liferay\theme-resources\css
+2015-10-30 18:06:44,457 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying html/themes/_styled/images to C:\Liferay\workspace\09-MiPropioTema\target\m2e-liferay\theme-resources\images
+2015-10-30 18:06:44,459 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying C:\Liferay\workspace\09-MiPropioTema\src\main\webapp\css to C:\Liferay\workspace\09-MiPropioTema\target\m2e-liferay\theme-resources\css
+2015-10-30 18:06:44,463 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying C:\Liferay\workspace\09-MiPropioTema\src\main\webapp\js to C:\Liferay\workspace\09-MiPropioTema\target\m2e-liferay\theme-resources\js
+2015-10-30 18:06:44,465 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying C:\Liferay\workspace\09-MiPropioTema\src\main\webapp\templates to C:\Liferay\workspace\09-MiPropioTema\target\m2e-liferay\theme-resources\templates
+2015-10-30 18:06:44,631 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 18:06:44,632 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-10-30 18:06:44,633 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 18:06:44,633 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Liferay\workspace\09-MiPropioTema\src\test\resources
+2015-10-30 18:06:52,174 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Parent theme group ID com.liferay.portal
+2015-10-30 18:06:52,174 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Parent theme artifact ID portal-web
+2015-10-30 18:06:52,174 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Parent theme version 6.2.2
+2015-10-30 18:06:52,174 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Parent theme ID _styled
+2015-10-30 18:06:52,195 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying html/themes/_unstyled/templates to C:\Liferay\workspace\09-MiPropioTema\target\m2e-liferay\theme-resources\templates
+2015-10-30 18:06:52,316 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying html/themes/_unstyled/css to C:\Liferay\workspace\09-MiPropioTema\target\m2e-liferay\theme-resources\css
+2015-10-30 18:06:53,077 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying html/themes/_unstyled/images to C:\Liferay\workspace\09-MiPropioTema\target\m2e-liferay\theme-resources\images
+2015-10-30 18:06:53,080 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying html/themes/_unstyled/js to C:\Liferay\workspace\09-MiPropioTema\target\m2e-liferay\theme-resources\js
+2015-10-30 18:06:53,096 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying html/themes/_styled/css to C:\Liferay\workspace\09-MiPropioTema\target\m2e-liferay\theme-resources\css
+2015-10-30 18:06:53,099 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying html/themes/_styled/images to C:\Liferay\workspace\09-MiPropioTema\target\m2e-liferay\theme-resources\images
+2015-10-30 18:06:53,102 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying C:\Liferay\workspace\09-MiPropioTema\src\main\webapp\css to C:\Liferay\workspace\09-MiPropioTema\target\m2e-liferay\theme-resources\css
+2015-10-30 18:06:53,105 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying C:\Liferay\workspace\09-MiPropioTema\src\main\webapp\js to C:\Liferay\workspace\09-MiPropioTema\target\m2e-liferay\theme-resources\js
+2015-10-30 18:06:53,108 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying C:\Liferay\workspace\09-MiPropioTema\src\main\webapp\templates to C:\Liferay\workspace\09-MiPropioTema\target\m2e-liferay\theme-resources\templates
+2015-10-30 18:06:53,269 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 18:06:53,269 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-10-30 18:06:53,270 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 18:06:53,271 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Liferay\workspace\09-MiPropioTema\src\test\resources
+2015-10-30 18:06:57,241 [Worker-15] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Liferay\workspace\09-MiPropioTema
+2015-10-30 18:06:57,241 [Worker-15] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -PLiferay-v6.2-CE-(Tomcat-7)  -B -U -Dmaven.test.skip=true -DskipTests package liferay:deploy
+2015-10-30 18:08:11,183 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 18:08:11,183 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-10-30 18:08:11,184 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 18:08:11,185 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Liferay\workspace\09-MiPropioTema\src\test\resources
+2015-10-30 18:19:54,775 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: com.example.plugins:18-Ejercicio-Final-Subastas:1.0.0-SNAPSHOT @ C:\Liferay\18-Ejercicio-Final-Subastas\pom.xml.
+2015-10-30 18:20:06,497 [Worker-26] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Liferay\18-Ejercicio-Final-Subastas
+2015-10-30 18:20:06,497 [Worker-26] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -PLiferay-v6.2-CE-(Tomcat-7)  -B -U -Dmaven.test.skip=true -DskipTests liferay:build-service
+2015-10-30 18:31:53,443 [Worker-39] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.subastas:19-Ejercicio-Final-Subastas-Spring-MVC:1.0.0-SNAPSHOT @ C:\Liferay\workspace\19-Ejercicio-Final-Subastas-Spring-MVC\pom.xml.
+2015-10-30 18:31:54,063 [Worker-32] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: com.example.plugins:18-Ejercicio-Final-Subastas:1.0.0-SNAPSHOT @ C:\Liferay\workspace\18-Ejercicio-Final-Subastas\pom.xml.
+2015-10-30 18:31:54,630 [Worker-39] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.subastas:19-Ejercicio-Final-Subastas-Persistencia:jar:0.0.1-SNAPSHOT is missing, no dependency information available
+2015-10-30 18:31:55,882 [Worker-41] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.subastas:19-Ejercicio-Final-Subastas-Spring-MVC:1.0.0-SNAPSHOT @ C:\Liferay\workspace\19-Ejercicio-Final-Subastas-Spring-MVC\pom.xml.
+2015-10-30 18:31:56,004 [Worker-41] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.subastas:19-Ejercicio-Final-Subastas-Persistencia:jar:0.0.1-SNAPSHOT is missing, no dependency information available
+2015-10-30 18:31:56,486 [Worker-41] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.subastas:19-Ejercicio-Final-Subastas-Persistencia:0.0.1-SNAPSHOT @ C:\Liferay\workspace\19-Ejercicio-Final-Subastas-Persistencia\pom.xml.
+2015-10-30 18:31:59,180 [Worker-41] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.subastas:19-Ejercicio-Final-Subastas-Spring-MVC:1.0.0-SNAPSHOT @ C:\Liferay\workspace\19-Ejercicio-Final-Subastas-Spring-MVC\pom.xml.
+2015-10-30 18:31:59,316 [Worker-41] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: com.example.plugins:18-Ejercicio-Final-Subastas:1.0.0-SNAPSHOT @ C:\Liferay\workspace\18-Ejercicio-Final-Subastas\pom.xml.
+2015-10-30 18:32:07,865 [Worker-44] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-10-30 18:32:07,866 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-10-30 18:32:07,880 [Worker-44] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-10-30 18:32:07,880 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Liferay\workspace\19-Ejercicio-Final-Subastas-Persistencia\src\test\resources
+2015-10-30 18:32:16,513 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 18:32:16,514 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-10-30 18:32:16,516 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 18:32:16,517 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Liferay\workspace\19-Ejercicio-Final-Subastas-Spring-MVC\src\test\resources

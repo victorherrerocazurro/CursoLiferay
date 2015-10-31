@@ -1,0 +1,42 @@
+create index IX_82BEFAC2 on ProductosSubasta (uuid_);
+
+create index IX_94906C34 on Subastas (estado);
+create index IX_50D296AE on Subastas (producto);
+create index IX_2C02408 on Subastas (producto, estado);
+create index IX_1A667F5C on Subastas (pujadorId);
+create index IX_F9EDA914 on Subastas (userId);
+create index IX_C159559A on Subastas (uuid_);
+create index IX_97470A4E on Subastas (uuid_, companyId);
+create unique index IX_AC09CC50 on Subastas (uuid_, groupId);
+
+create index IX_7B799778 on Subastas_JournalArticle (companyId);
+create index IX_5844DE5E on Subastas_JournalArticle (companyId, status);
+create index IX_D7DDC590 on Subastas_JournalArticle (companyId, version);
+create index IX_43057476 on Subastas_JournalArticle (companyId, version, status);
+create index IX_AA06D5F6 on Subastas_JournalArticle (displayDate, status);
+create index IX_AAF19BFA on Subastas_JournalArticle (groupId);
+create index IX_397B3E7 on Subastas_JournalArticle (groupId, articleId);
+create index IX_A8331BCD on Subastas_JournalArticle (groupId, articleId, status);
+create unique index IX_85B73601 on Subastas_JournalArticle (groupId, articleId, version);
+create index IX_687376CF on Subastas_JournalArticle (groupId, classNameId, classPK);
+create index IX_DF6368CD on Subastas_JournalArticle (groupId, classNameId, layoutUuid);
+create index IX_82D86257 on Subastas_JournalArticle (groupId, folderId);
+create index IX_48D65A3D on Subastas_JournalArticle (groupId, folderId, status);
+create index IX_FC037833 on Subastas_JournalArticle (groupId, layoutUuid);
+create index IX_EC3940E0 on Subastas_JournalArticle (groupId, status);
+create index IX_488F1A57 on Subastas_JournalArticle (groupId, urlTitle);
+create index IX_2855123D on Subastas_JournalArticle (groupId, urlTitle, status);
+create index IX_8DB85A34 on Subastas_JournalArticle (groupId, userId);
+create index IX_41EFD39A on Subastas_JournalArticle (groupId, userId, classNameId);
+create index IX_13A0D9E9 on Subastas_JournalArticle (layoutUuid);
+create index IX_F010DBAB on Subastas_JournalArticle (resourcePrimKey);
+create index IX_E4D5CD51 on Subastas_JournalArticle (resourcePrimKey, indexable);
+create index IX_7E9E2B37 on Subastas_JournalArticle (resourcePrimKey, indexable, status);
+create index IX_FCFA3F91 on Subastas_JournalArticle (resourcePrimKey, status);
+create index IX_AC70C1B3 on Subastas_JournalArticle (smallImageId);
+create index IX_4FD1E504 on Subastas_JournalArticle (uuid_);
+create index IX_38BD94A4 on Subastas_JournalArticle (uuid_, companyId);
+create unique index IX_112AF426 on Subastas_JournalArticle (uuid_, groupId);
+
+create index IX_93E9B2C on Subastas_Students_Courses (courseId);
+create index IX_B115A004 on Subastas_Students_Courses (studentId);

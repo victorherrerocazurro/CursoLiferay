@@ -5,7 +5,7 @@
   <link rel="self" href="https://spring.io/blog.atom" />
   <id>http://spring.io/blog.atom</id>
   <icon>https://spring.io/favicon.ico</icon>
-  <updated>2015-10-29T17:30:29Z</updated>
+  <updated>2015-10-29T17:30:00Z</updated>
   <entry>
     <title>Spring IO Platform 2.0.0.RC1</title>
     <link rel="alternate" href="https://spring.io/blog/2015/10/29/spring-io-platform-2-0-0-rc1" />
@@ -14,8 +14,8 @@
       <name>Andy Wilkinson</name>
     </author>
     <id>tag:spring.io,2015-10-29:2289</id>
-    <updated>2015-10-29T17:30:29Z</updated>
-    <content type="html">&lt;p&gt;Spring IO Platform 2.0.0.RC1 is available now from the &lt;a href="http://repo.springsource.org/milestone/"&gt;Spring milestone repository&lt;/a&gt;. The 2.0 release upgrades the versions of a number of components including Spring Boot 1.3 and Spring Framework 4.3. &lt;/p&gt;
+    <updated>2015-10-29T17:30:00Z</updated>
+    <content type="html">&lt;p&gt;Spring IO Platform 2.0.0.RC1 is available now from the &lt;a href="http://repo.springsource.org/milestone/"&gt;Spring milestone repository&lt;/a&gt;. The 2.0 release upgrades the versions of a number of components including Spring Boot 1.3 and Spring Framework 4.2. &lt;/p&gt;
 &lt;p&gt;Please note that a number of dependencies that were previously part of the Platform have been removed or replaced in this release. Please refer to &lt;a href="http://docs.spring.io/platform/docs/2.0.0.RC1/reference/htmlsingle/#upgrading-dependency-management"&gt;the documentation&lt;/a&gt; for further details.&lt;/p&gt;
 &lt;p&gt;All being well, 2.0.0.RELEASE will be released in a few weeks time once Spring Boot 1.3.0.RELEASE is available. Please take RC1 for a spin and let us know if you find any problems.&lt;/p&gt;
 &lt;p&gt;&lt;a href="http://platform.spring.io/platform"&gt;Project Page&lt;/a&gt; | &lt;a href="https://github.com/spring-io/platform"&gt;GitHub&lt;/a&gt; | &lt;a href="https://github.com/spring-io/platform/issues"&gt;Issues&lt;/a&gt; | &lt;a href="http://docs.spring.io/platform/docs/2.0.0.RC1/reference/htmlsingle"&gt;Documentation&lt;/a&gt;&lt;/p&gt;</content>

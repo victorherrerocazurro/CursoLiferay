@@ -1,0 +1,58 @@
+<!DOCTYPE service-builder PUBLIC "-//Liferay//DTD Service Builder 6.2.0//EN" "http://www.liferay.com/dtd/liferay-service-builder_6_2_0.dtd">
+
+<service-builder package-path="com.subastas">
+	<namespace>Subastas</namespace>
+	<entity name="Subasta" local-service="true"	remote-service="false" table="Subastas">
+		
+		<!-- PK fields -->
+		<column name="id" type="long" primary="true"  />
+		
+		<!-- Group instance -->
+		<column name="groupId" type="long" />
+		
+		<!-- Audit fields -->
+		<column name="companyId" type="long" />
+		<column name="userId" type="long" />
+		<column name="createDate" type="Date" />
+		<column name="modifiedDate" type="Date" />
+		
+		<!-- Other fields -->
+		<column name="producto" type="String" />
+		<column name="estado" type="String" />
+		<column name="pujaInicial" type="double" />
+		<column name="pujaMaxima" type="double" />
+		<column name="pujadorId" type="long" />
+		<column name="pujadorName" type="String" />
+		<column name="fechaFin" type="Date" />
+		
+		<!-- Order -->
+		<order>
+			<order-column name="estado" order-by="asc" />
+			<order-column name="producto" order-by="asc" />
+		</order>
+		
+		<!-- Finder methods -->
+		<finder name="producto" return-type="Collection">
+			<finder-column name="producto" />
+		</finder>
+		<finder name="estado" return-type="Collection">
+			<finder-column name="estado" />
+		</finder>
+		<finder name="producto_estado" return-type="Collection">
+			<finder-column name="producto" />
+			<finder-column name="estado" />
+		</finder>
+		<finder name="pujador" return-type="Collection">
+			<finder-column name="pujadorId" />
+		</finder>
+		<finder name="subastador" return-type="Collection">
+			<finder-column name="userId" />
+		</finder>
+		
+		<!-- References -->
+		<reference package-path="com.liferay.portal" entity="Company" />
+		<reference package-path="com.liferay.portal" entity="Group" />
+		<reference package-path="com.liferay.portal" entity="PortletPreferences" />
+		<reference package-path="com.liferay.portal" entity="User" />
+	</entity>
+</service-builder>
